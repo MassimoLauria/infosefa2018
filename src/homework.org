@@ -11,7 +11,10 @@
   *Fatemi sapere*  se ci  sono dei  problemi tecnici.  Perché un'email
   venga vista dal software 
 
-  - deve avere {{{subject_prefix}}} all'inizio dell'oggetto,
+  - deve avere {{{subject_prefix}}} all'inizio dell'oggetto, ad esempio
+    
+    *Oggetto:* {{{subject_prefix}}} =consegna del primo esercizio=
+ 
   - deve essere inviata all'indirizzo {{{email_address}}}.
     
   *Mi  raccomando*: se  una  delle due  condizioni  sopra non  dovesse
@@ -24,36 +27,36 @@
      sarà possibile  consegnare finché non viene  effettuata, inviando
      un messaggio con i propri dati, nella forma
 
-  #+begin_example
-  iscrizione
+     #+begin_example
+     iscrizione
   
-  nome : <NOME> 
-  cognome : <COGNOME>
-  matricola: <NUMERO DI MATRICOLA>
+     nome : <NOME> 
+     cognome : <COGNOME>
+     matricola: <NUMERO DI MATRICOLA>
   
-  #+end_example
+     #+end_example
 
-  Successivamente  all registrazione  tutti  i  messaggi che  arrivano
-  dallo stesso indirizzo di  posta elettronica vengono associati allo
-  studente indicato.
+     Successivamente all  registrazione tutti i messaggi  che arrivano
+     dallo  stesso indirizzo  di posta  elettronica vengono  associati
+     allo studente indicato.
 
   2. Consegna. Ad  ogni compito  corrisponde un  codice alfanumerico.
      La soluzione  del compito deve  essere inviata come  (unico) file
      allegato ad un messaggio della forma
-
-  #+begin_example
-  consegna
+ 
+     #+begin_example
+     consegna
   
-  homework : <CODICE>
+     homework : <CODICE>
   
-  #+end_example
+     #+end_example
 
   3. Situazione. Lo studente può chiedere di conoscere lo stato dei
-  suoi esercizi con un messaggio della forma
-
-  #+begin_example
-  situazione
-  #+end_example
+     suoi esercizi con un messaggio della forma
+     
+     #+begin_example
+     situazione
+     #+end_example
   
 * Formato dei messaggi 
 
