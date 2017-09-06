@@ -2,8 +2,8 @@
 
 ########### CONFIGURATION ########################
 
-NAME="infosefa2017"
-REMOTE="massimo@massimolauria.net:/srv/www/massimolauria.net/$NAME/"
+NAME=infosefa2017
+REMOTE="massimo@massimolauria.net:/srv/www/massimolauria.net/courses/${NAME}/"
 TIME   = $(shell date +%Y%m%d.%H%M)
 
 

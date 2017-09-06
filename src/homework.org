@@ -5,17 +5,17 @@
 
 * Come consegnare gli esercizi
 
-  Gli studenti consegnano i propri  compiti via email, così che questi
-  vengano  automaticamente gestiti  da  un  software. Questo  software
-  è  molto  primitivo perché  l'ho  improvvisato  nelle due  settimane
-  precedenti  al  corso.  *Fatemi  sapere* se  ci  sono  dei  problemi
-  tecnici. Tutti i messaggi devono
+  Gli studenti consegnano i propri  compiti via email, che poi vengono
+  gestiti da  un software.  Questo software  è molto  primitivo perché
+  l'ho  improvvisato   nelle  due   settimane  precedenti   al  corso.
+  *Fatemi sapere*  se ci  sono dei  problemi tecnici.  Perché un'email
+  venga vista dal software 
 
-  - avere {{{subject_prefix}}} all'inizio dell'oggetto
-  - essere inviati all'indirizzo {{{email_address}}}
+  - deve avere {{{subject_prefix}}} all'inizio dell'oggetto,
+  - deve essere inviata all'indirizzo {{{email_address}}}.
     
   *Mi  raccomando*: se  una  delle due  condizioni  sopra non  dovesse
-  essere  rispettata  i  vostri  messaggi  potrebbero  essere,  persi,
+  essere  rispettata  i  vostri messaggi  potrebbero  essere  perduti,
   dimenticati o ignorati.
 
   Il software accetta tre tipi di email.
