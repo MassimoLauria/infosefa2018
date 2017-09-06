@@ -1,0 +1,87 @@
+#+TITLE: Informatica, 2017 @ SEFA - Homework
+
+#+macro: subject_prefix =[INFOSEFA2017HW]=
+#+macro: email_address  =massimo.lauria@uniroma1.it=
+
+* Come consegnare gli esercizi
+
+  Gli studenti consegnano i propri  compiti via email, così che questi
+  vengano automaticamente  archiviati e  valutati. Dal punto  di vista
+  dello  studente  l'interfaccia  è  molto  semplice:   è  sufficiente
+  mandare  delle email.
+
+  - Le email vanno mandate a {{{email_address}}}
+ 
+  - L'oggetto  deve  iniziare  con {{{subject_prefix}}},  senza  spazi
+    nelle   parentesi    quadre.   Non   importa   cosa    c'è   dopo.
+
+  - Il messaggio deve essere scritto  in testo semplice non formattato
+    (=text/plain=).  Molti  programmi  di  posta  elettronica  mandano
+    messaggi  in HTML.  Questi verranno  ignorati. Altri  programmi di
+    posta  mandano messaggi  in  HTML ma  inviato contestualmente  una
+    versione in testo semplice che ha più o meno gli stessi contenuti.
+    Se la versione in testo semplice rispetta le specifiche allora non
+    c'è problema.
+
+  Lo studente è responsabile delle email che invia e deve
+  farsi carico di controllare che i messaggi soddisfino i requisiti di
+  formato e formattazione necessari. In  caso contrario i messaggi (ed
+  i relativi compiti consegnati)  potrebbero andare persi o potrebbero
+  essere ignorati.
+
+  *Controllate la configurazione del vostro programma di posta elettronica.*
+    
+
+* Primo passo - Iscrizione dello studente
+
+  Lo  studente  non  può  comunicare  con il  sistema  finché  non  si
+  è  registrato. Per  farlo  è sufficiente  mandare  (una volta  sola)
+  un'email con il testo seguente.
+
+  #+begin_example
+  iscrizione
+  
+  nome : <NOME> 
+  cognome : <COGNOME>
+  matricola: <NUMERO DI MATRICOLA>
+  
+  #+end_example
+
+  dove i campi vanno sostituiti con  i vostri dati. Una volta eseguita
+  l'iscrizione  al  sistema  tutte  le comunicazioni  tra  voi  ed  il
+  software devono  essere effettuate usando lo  stesso indirizzo email
+  da cui avete inviato il messaggio.
+
+  *Nota:* questa iscrizione non ha nulla a che vedere con l'iscrizione
+  all'università o al corso di laurea. Per quello dovere effettuare le
+  procedure apposite.
+
+* Secondo passo - invio di un esercizio
+
+  Ogni    esercizio   avrà    un   codice    alfanumerico   associato.
+  Quando  richiesto dal  docente, lo  studente dovrà  inviare un'email
+  (sempre  in testo  semplice  con  on {{{subject_prefix}}}  davanti
+  all'oggetto) dallo stesso indirizzo con cui si è iscritto, 
+  e l'email deve  contenere
+
+  #+begin_example
+  consegna
+  
+  homework : <CODICE>
+  
+  #+end_example
+
+  e deve avere in allegato il file richiesto per l'esercizio. Il resto
+  del testo verrà ignorato.
+
+  *Nota*:  nel  caso il  messaggio contenga  più allegati,  quelli non
+  richiesti saranno ignorati. Nel caso  in cui si richieda per esempio
+  un file python, ed il messaggio  ne contenga più di uno, allora solo
+  uno verrà preso in considerazione. Pertanto è fortemente consigliato
+  di non allegare file inutili.
+
+* Opzionale - recuperare le proprie informazioni
+
+  Inviando un messaggio contentente la  parola =situazione= da sola su
+  una  riga lo  studente può  ricevere  un resoconto  dello stato  dei
+  suoi esercizi.
