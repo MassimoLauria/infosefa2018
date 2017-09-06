@@ -6,37 +6,23 @@
 * Come consegnare gli esercizi
 
   Gli studenti consegnano i propri  compiti via email, così che questi
-  vengano automaticamente  archiviati e  valutati. Dal punto  di vista
-  dello  studente  l'interfaccia  è  molto  semplice:   è  sufficiente
-  mandare  delle email.
+  vengano  automaticamente gestiti  da  un  software. Questo  software
+  è  molto  primitivo perché  l'ho  improvvisato  nelle due  settimane
+  precedenti  al  corso.  *Fatemi  sapere* se  ci  sono  dei  problemi
+  tecnici. Tutti i messaggi devono
 
-  - Le email vanno mandate a {{{email_address}}}
- 
-  - L'oggetto  deve  iniziare  con {{{subject_prefix}}},  senza  spazi
-    nelle   parentesi    quadre.   Non   importa   cosa    c'è   dopo.
-
-  - Il messaggio deve essere scritto  in testo semplice non formattato
-    (=text/plain=).  Molti  programmi  di  posta  elettronica  mandano
-    messaggi  in HTML.  Questi verranno  ignorati. Altri  programmi di
-    posta  mandano messaggi  in  HTML ma  inviato contestualmente  una
-    versione in testo semplice che ha più o meno gli stessi contenuti.
-    Se la versione in testo semplice rispetta le specifiche allora non
-    c'è problema.
-
-  Lo studente è responsabile delle email che invia e deve
-  farsi carico di controllare che i messaggi soddisfino i requisiti di
-  formato e formattazione necessari. In  caso contrario i messaggi (ed
-  i relativi compiti consegnati)  potrebbero andare persi o potrebbero
-  essere ignorati.
-
-  *Controllate la configurazione del vostro programma di posta elettronica.*
+  - avere {{{subject_prefix}}} all'inizio dell'oggetto
+  - essere inviati all'indirizzo {{{email_address}}}
     
+  *Mi  raccomando*: se  una  delle due  condizioni  sopra non  dovesse
+  essere  rispettata  i  vostri  messaggi  potrebbero  essere,  persi,
+  dimenticati o ignorati.
 
-* Primo passo - Iscrizione dello studente
+  Il software accetta tre tipi di email.
 
-  Lo  studente  non  può  comunicare  con il  sistema  finché  non  si
-  è  registrato. Per  farlo  è sufficiente  mandare  (una volta  sola)
-  un'email con il testo seguente.
+  1. Iscrizione  al sistema. Deve essere  fatta una sola volta,  e non
+     sarà possibile  consegnare finché non viene  effettuata, inviando
+     un messaggio con i propri dati, nella forma
 
   #+begin_example
   iscrizione
@@ -47,22 +33,13 @@
   
   #+end_example
 
-  dove i campi vanno sostituiti con  i vostri dati. Una volta eseguita
-  l'iscrizione  al  sistema  tutte  le comunicazioni  tra  voi  ed  il
-  software devono  essere effettuate usando lo  stesso indirizzo email
-  da cui avete inviato il messaggio.
+  Successivamente  all registrazione  tutti  i  messaggi che  arrivano
+  dallo stesso indirizzo di  posta elettronica vengono associati allo
+  studente indicato.
 
-  *Nota:* questa iscrizione non ha nulla a che vedere con l'iscrizione
-  all'università o al corso di laurea. Per quello dovere effettuare le
-  procedure apposite.
-
-* Secondo passo - invio di un esercizio
-
-  Ogni    esercizio   avrà    un   codice    alfanumerico   associato.
-  Quando  richiesto dal  docente, lo  studente dovrà  inviare un'email
-  (sempre  in testo  semplice  con  on {{{subject_prefix}}}  davanti
-  all'oggetto) dallo stesso indirizzo con cui si è iscritto, 
-  e l'email deve  contenere
+  2. Consegna. Ad  ogni compito  corrisponde un  codice alfanumerico.
+     La soluzione  del compito deve  essere inviata come  (unico) file
+     allegato ad un messaggio della forma
 
   #+begin_example
   consegna
@@ -71,17 +48,26 @@
   
   #+end_example
 
-  e deve avere in allegato il file richiesto per l'esercizio. Il resto
-  del testo verrà ignorato.
+  3. Situazione. Lo studente può chiedere di conoscere lo stato dei
+  suoi esercizi con un messaggio della forma
 
-  *Nota*:  nel  caso il  messaggio contenga  più allegati,  quelli non
-  richiesti saranno ignorati. Nel caso  in cui si richieda per esempio
-  un file python, ed il messaggio  ne contenga più di uno, allora solo
-  uno verrà preso in considerazione. Pertanto è fortemente consigliato
-  di non allegare file inutili.
+  #+begin_example
+  situazione
+  #+end_example
+  
+* Formato dei messaggi 
 
-* Opzionale - recuperare le proprie informazioni
+  I messaggi  per la  consegna dei compiti  deveono essere  scritti in
+  testo  semplice non  formattato (=text/plain=).  Molti programmi  di
+  posta  elettronica   mandano  messaggi  in  HTML.   Questi  verranno
+  ignorati.  Altri programmi  di  posta mandano  messaggi  in HTML  ma
+  inviato contestualmente  una versione in  testo semplice che  ha più
+  o  meno gli  stessi  contenuti.  Se la  versione  in testo  semplice
+  rispetta le specifiche allora non c'è problema.
 
-  Inviando un messaggio contentente la  parola =situazione= da sola su
-  una  riga lo  studente può  ricevere  un resoconto  dello stato  dei
-  suoi esercizi.
+  Lo studente è responsabile delle email che invia e deve farsi carico
+  di  controllare che  i messaggi  soddisfino i  requisiti di  formato
+  necessari.  In caso  contrario  i messaggi  (ed  i relativi  compiti
+  consegnati) potrebbero andare persi o potrebbero essere ignorati.
+
+  *Controllate la configurazione del vostro programma di posta elettronica.*
