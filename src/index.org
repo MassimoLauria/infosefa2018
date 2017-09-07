@@ -14,9 +14,7 @@
 </a>
 #+end_export
 
-* Docente: Massimo Lauria 
-  
-  Orario di ricevimento: (ancora non disponibile)
+* Massimo Lauria 
   
 #+begin_export html
 <div>
@@ -30,6 +28,9 @@
     <li class="contacts">
     <img src="images/office.png" class="contact-pic" />
     Stanza n.9 - 4<sup>o</sup> piano - Dipartimento di Science Statistiche (CU002)</li>
+    <li class="contacts">
+    <img src="images/talk.png" class="contact-pic" />
+    Ricevimento: Lunedì  15.00-17.00</li>
 </ul>
 </div>
 #+end_export
@@ -48,21 +49,17 @@
 
 * Testi e risorse consigliate
   
+  - ([[http://pellacini.di.uniroma1.it/books/fondamentibook16/fondamentibook16.html][ebook]]) *Fondamenti   di  Programmazione   in  Python* di   /F.
+    Pellacini/. [Circa 10 euro]
+  - ([[file:docs/manuale_sql.pdf][pdf]]) *Manuale SQL* di /Proprietà del Dipartimento Tesoro -  Ministero del Tesoro, del  Bilancio e della Programmazione Economica/. [Liberamente Utilizzabile]
+
   Sia  i  concetti  che  le   tecnologie  presentate  nel  corso  sono
   consolidate.  Esistono  numerosissimi corsi,  videocorsi,  tutorial,
   manuali che trattano l'informatica di  base, Python ed SQL. Molti di
   sono gratuiti e di alta qualità, e possono essere trovati facilmente
   usando  qualunque motore  di ricerca.  Purtroppo quasi  tutto questo
-  materiale è  in inglese,  pertanto in  questo corso  consigliamo dei
-  testi in lingua  italiana, che sono gli stessi  utilizzati nel corso
-  del 2016.
-
-  - Fondamenti   di  Programmazione   in  Python   ([[http://pellacini.di.uniroma1.it/books/fondamentibook16/fondamentibook16.html][descrizione]])  di   /F.
-    Pellacini/. [Solo ebook, circa 10 euro]
-  - Manuale SQL  ([[file:docs/manuale_sql.pdf][libro]]) [Pdf, liberamente utilizzabile]  di /Proprietà del
-    Dipartimento Tesoro -  Ministero del Tesoro, del  Bilancio e della
-    Programmazione Economica/.
-
+  materiale  è  in inglese. 
+  
 * Calendario, Orari e Aule
 
   Il corso si svolge dal 25 Settembre  2017 al 20 dicembre 2017, ed il
