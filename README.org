@@ -4,7 +4,7 @@ This is the  source code for the webpage of  the course of Informatica
 (year 2017/2018) for the  students of SEFA at the [[http://www.dss.uniroma1.it][Department  of Statistical
 Sciences]] , currently published at
 
-http://www.massimolauria.net/]]courses/infosefa2017/
+http://www.massimolauria.net/courses/infosefa2017/
 
 The idea  is that the site  is a bunch of  =org-mode= files, converted
 into  a proper  webpage with  some  =org-publish= magic.  The site  is
