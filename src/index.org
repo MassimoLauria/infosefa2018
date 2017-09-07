@@ -1,6 +1,4 @@
-#+TITLE: Informatica, 2017 @ SEFA
-
-
+#+TITLE: Informatica @ SEFA 2017/2018
 
 #
 # Force the  link to the  homepage to  be highlighted, to  work around
@@ -59,15 +57,12 @@
   testi in lingua  italiana, che sono gli stessi  utilizzati nel corso
   del 2016.
 
-  - Fondamenti di Programmazione in  Python ([[http://pellacini.di.uniroma1.it/books/fondamentibook16/fondamentibook16.html][editore]]) [Solo ebook, circa 10
-    euro]
-  - Basi  di  dati  -  Modelli  e  linguaggi  di  interrogazione  4/ed
-    ([[http://www.catalogo.mcgraw-hill.it/catLibro.asp?item_id=2911][editore]]) [Circa 40 euro]
+  - Fondamenti   di  Programmazione   in  Python   ([[http://pellacini.di.uniroma1.it/books/fondamentibook16/fondamentibook16.html][descrizione]])  di   /F.
+    Pellacini/. [Solo ebook, circa 10 euro]
+  - Manuale SQL  ([[file:docs/manuale_sql.pdf][libro]]) [Pdf, liberamente utilizzabile]  di /Proprietà del
+    Dipartimento Tesoro -  Ministero del Tesoro, del  Bilancio e della
+    Programmazione Economica/.
 
-    *Nota:* La  parte di  corso dedicata  alle basi  di dati  sarà più
-    breve di quella dedicata alla  programmazione in Python. Perciò mi
-    devo scusare con voi per non saper consigliare un testo più economico.
-  
 * Calendario, Orari e Aule
 
   Il corso si svolge dal 25 Settembre  2017 al 20 dicembre 2017, ed il

@@ -1,12 +1,9 @@
-#+TITLE: Massimo Lauria @ Sapienza - the webpage
+#+TITLE: Informatica @ SEFA 2017/2018
 
-This is  the source code  for the  my webpage, currently  published at
-[[http://www.massimolauria.net/]]
-
-The source does not contain:
-    - the individual course pages,  they have separate (maybe private)
-      repositories;
-    - the blog.
+This is the  source code for the webpage of  the course of Informatica
+for the students of SEFA 2017/2018  for the students of the [[http://www.dss.uniroma1.it][Department
+of     Statistical    Sciences]]     ,     currently    published     at
+[[http://www.massimolauria.net/]]courses/infosefa2017/
 
 The idea  is that the site  is a bunch of  =org-mode= files, converted
 into  a proper  webpage with  some  =org-publish= magic.  The site  is

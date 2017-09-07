@@ -1,4 +1,8 @@
-#+TITLE: Informatica, 2017 @ SEFA - Diario delle lezioni
+#+TITLE: Informatica @ SEFA 2017/2018 - Diario delle lezioni
 
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
+
+* <2017-09-25 Mon> Prima lezione
+
+  Ci vediamo in Aula 15 nei laboratori di Via Tiburtina, 205.

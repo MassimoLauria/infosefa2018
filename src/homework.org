@@ -1,4 +1,4 @@
-#+TITLE: Informatica, 2017 @ SEFA - Homework
+#+TITLE: Informatica @ SEFA 2017/2018 - Homework
 
 #+macro: subject_prefix =[INFOSEFA2017HW]=
 #+macro: email_address  =massimo.lauria@uniroma1.it=
