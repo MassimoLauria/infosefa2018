@@ -3,6 +3,13 @@
 #+macro: subject_prefix =[INFOSEFA2017HW]=
 #+macro: email_address  =massimo.lauria@uniroma1.it=
 
+* Queste informazioni *non* sono definitive
+
+Dovete aspettare che le modalità di esame e di consegna siano chiarite
+e  fissate  in  classe.   Qualunque  aggiornamento  al  riguardo  sarà
+comunicato in aula, su questa pagina, e sul diario del corso.
+
+
 * Come consegnare gli esercizi
 
   Gli studenti consegnano i propri  compiti via email, che poi vengono

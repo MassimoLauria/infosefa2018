@@ -5,4 +5,9 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
 * <2017-09-25 Mon> Prima lezione
 
-  Ci vediamo in Aula 15 nei laboratori di Via Tiburtina, 205.
+  Abbiamo introdotto il corso,  fornendo le informazioni logistiche di
+  base.   Poi    abbiamo   visto   alcuni   elementi    della   storia
+  dell'informatica e di come sia nata l'architettura dei calcolatori.
+   
+  Slide: [[file:docs/lecture01-dark.pdf][scure]] e [[file:docs/lecture01-light.pdf][chiare]]
+
