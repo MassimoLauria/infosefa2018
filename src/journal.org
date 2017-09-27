@@ -3,11 +3,30 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
-* <2017-09-25 Mon> Prima lezione
+* <2017-09-27 Wed> Seconda lezione - Dati e programmi
+
+  Mi scuso per  le difficoltà iniziali della lezione di  oggi. Farò di
+  tutto perché non si ripetano. 
+
+  La lezione si è concentrata prima  sulla codifica di dati, ovvero di
+  come  vengano codificati  numeri  interi in  binario e  esadecimale,
+  e testi  in ASCII,  ASCII esteso,  e UTF-8.  Sono stati  fatti anche
+  esempi riguardanti la codifica di immagini e segnali.
+
+  Poi ci siamo spostati sul  tema dei programmi. Sono stati introdotti
+  il linguaggio  macchina della CPU, e  si è visto come  le astrazioni
+  siano strumenti  importanti per  la progettazione e  manutenzione di
+  un programma.  Abbiamo introdotto il  concetto di linguaggi  di alto
+  e  basso   livello,  il  concetto  di   compilatore  ed  interprete.
+  Sono stati brevemente introdotti Python e SQL.
+
+  Slide: [[file:docs/lecture02.pdf][lezione 2]]
+
+* <2017-09-25 Mon> Prima lezione - Introduzione
 
   Abbiamo introdotto il corso,  fornendo le informazioni logistiche di
   base.   Poi    abbiamo   visto   alcuni   elementi    della   storia
   dell'informatica e di come sia nata l'architettura dei calcolatori.
    
-  Slide: [[file:docs/lecture01-dark.pdf][scure]] e [[file:docs/lecture01-light.pdf][chiare]]
+  Slide: [[file:docs/lecture01-dark.pdf][lezione 1 (scura)]] e [[file:docs/lecture01-light.pdf][lezione 1 (chiara)]]
 
