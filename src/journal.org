@@ -3,7 +3,15 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
-* <2017-09-27 Wed> Seconda lezione - Dati e programmi
+
+* <2017-09-29 Fri> Lezione 3 - Elementi del linguaggio Python
+
+  Abbiamo visto  come operare  su dati numerici  (interi e  in virgola
+  mobile)  e  come  operare  sulle  stringhe.  Abbiamo  introdotto  le
+  /variabili/ e le /funzioni/ come meccanismi di astrazione.
+
+  Slide: ([[file:docs/lecture03.pdf][schermo]]|[[file:docs/lecture03-print.pdf][stampa]])
+* <2017-09-27 Wed> Lezione 2 - Dati e programmi
 
   Mi scuso per  le difficoltà iniziali della lezione di  oggi. Farò di
   tutto perché non si ripetano. 
@@ -20,13 +28,13 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
   e  basso   livello,  il  concetto  di   compilatore  ed  interprete.
   Sono stati brevemente introdotti Python e SQL.
 
-  Slide: [[file:docs/lecture02.pdf][lezione 2]]
+  Slide: ([[file:docs/lecture02.pdf][schermo]]|[[file:docs/lecture02-print.pdf][stampa]])
 
-* <2017-09-25 Mon> Prima lezione - Introduzione
+* <2017-09-25 Mon> Lezione 1 - Introduzione
 
   Abbiamo introdotto il corso,  fornendo le informazioni logistiche di
   base.   Poi    abbiamo   visto   alcuni   elementi    della   storia
   dell'informatica e di come sia nata l'architettura dei calcolatori.
    
-  Slide: [[file:docs/lecture01-dark.pdf][lezione 1 (scura)]] e [[file:docs/lecture01-light.pdf][lezione 1 (chiara)]]
+  Slide: ([[file:docs/lecture01.pdf][schermo]]|[[file:docs/lecture01-print.pdf][stampa]])
 
