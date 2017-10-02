@@ -113,6 +113,13 @@
          :recursive t
          :publishing-function org-publish-attachment
          )
+        ("code"
+         :base-directory ,base-directory
+         :base-extension "py\\|sql\\|sh"
+         :publishing-directory ,publishing-directory
+         :recursive t
+         :publishing-function org-publish-attachment
+         )
         ("papers"
          :base-directory ,base-directory
          :base-extension "pdf\\|ps\\|ps.gz\\|tex"
@@ -120,5 +127,5 @@
          :recursive t
          :publishing-function org-publish-attachment
          )
-        ("main" :components ("pages" "pages-html" "papers" "assets"))
+        ("main" :components ("pages" "pages-html" "papers" "code" "assets"))
         ))

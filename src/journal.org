@@ -3,6 +3,27 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-02 Mon> Laboratorio 1 - Primi esercizi in Python
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab01.py=  in maniera  tale che  il lo  script =test_lab01.py=
+  esegua   con   successo.   *Attenzione:*  la   versione   precedente
+  era errata! Scaricate l'ultima versione.
+
+  - programma con i test: [[file:code/test_lab01.py][test_lab01.py]]  (*aggiornato*)
+
+  Più precisamente dovrete:
+  - salvare le vostre funzioni in un file =lab01.py=
+  - scaricare il file =test_lab01.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab01.py
+
+  Visto che d'ora in  poi useremo molto la riga di  comando, è il caso
+  che leggiate un piccolo tutorial su  come fare le operazioni di base
+  come muoversi tra cartelle. [[https://tutorial.djangogirls.org/it/intro_to_command_line/][Django Girls Tutorial (italiano)]]
+
+  Slide: ([[file:docs/lab01.pdf][schermo]]|[[file:docs/lab01-print.pdf][stampa]])
 
 * <2017-09-29 Fri> Lezione 3 - Elementi del linguaggio Python
 
