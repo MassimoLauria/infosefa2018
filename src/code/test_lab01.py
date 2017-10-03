@@ -115,6 +115,18 @@ class TestLab01Geometria(unittest.TestCase):
             narea = lab.volume_cilindro(scale*raggio,scale*altezza)
             self.assertAlmostEqual( (scale**3)*area, narea)
 
+    def test_area_ppr_unit(self):
+        area = lab.area_parallelepipedo_rettangolo(1,1,1)
+        self.assertAlmostEqual(6,area)
+
+    def test_area_ppr_zero(self):
+        area = lab.area_parallelepipedo_rettangolo(1,0,1)
+        self.assertAlmostEqual(2,area)
+
+    def test_area_ppr_zero_zero(self):
+        area = lab.area_parallelepipedo_rettangolo(1,0,0)
+        self.assertAlmostEqual(0,area)
+
     def test_scaling_vol_ppr(self):
         h = 2.0
         l = 1.0
