@@ -3,6 +3,17 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-04 Wed> Lezione 4 - Logica booleana, Costrutto IF
+
+  Abbiamo visto  i rudimenti della  logica booleana e  degli operatori
+  proposizionali not, and,  or, xor. Abbiamo visto  come utilizzare le
+  condizioni booleane per adoperare =if=, =else=, =elif=.
+
+  Tutto quello che è stato fatto a lezione è sulle slide, anche se non
+  siamo riusciti ad adoperarle.
+
+  Slide: ([[file:docs/lecture04.pdf][schermo]]|[[file:docs/lecture04-print.pdf][stampa]])
+
 * <2017-10-02 Mon> Laboratorio 1 - Primi esercizi in Python
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
@@ -32,6 +43,7 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
   /variabili/ e le /funzioni/ come meccanismi di astrazione.
 
   Slide: ([[file:docs/lecture03.pdf][schermo]]|[[file:docs/lecture03-print.pdf][stampa]])
+
 * <2017-09-27 Wed> Lezione 2 - Dati e programmi
 
   Mi scuso per  le difficoltà iniziali della lezione di  oggi. Farò di
