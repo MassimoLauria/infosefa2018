@@ -3,6 +3,48 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-06 Fri> Lezione 5 - Sequenze, liste e tuple. Moduli.
+
+  A  lezione abbiamo  visto l'uso  di sequenze,  ed in  particolare di
+  liste e  tuple. In  questo contesto abbiamo  discusso l'immutabilità
+  e la mutabilità.
+
+  *Attenzione*:  a  lezione ho  detto  una  cosa *errata*!!  Le  tuple
+  possono contenere liste e queste liste possono essere modificate. 
+
+#+BEGIN_SRC python :session :exports both :results output
+tupla = (1,2,[3,4])
+tupla[0] = "mod"           # modifico un elemento della tupla (Errore)
+tupla[-1][0] = "mod"       # modifico un elemento della lista interna
+print(tupla)
+#+END_SRC
+
+#+RESULTS:
+: Traceback (most recent call last):
+:   File "<stdin>", line 1, in <module>
+: TypeError: 'tuple' object does not support item assignment
+: (1, 2, ['mod', 4])
+  
+  La nozione  di immutabilità  delle tuple è  superficiale e  si ferma
+  all'identità degli oggetti, non al loro contenuto. Ne discuteremo in
+  laboratorio all'inizio della lezione. Resta  il fatto che python non
+  accetta questo tipo di tuple in alcune operazioni.
+
+#+BEGIN_SRC python :session true :exports both :results output
+database = {}
+database[(1,2,(3,4),5)] = "prima prova"     # associamo una stringa a (1,2,(3,4),5)
+print( database[(1,2) + ((3,4),5)])         # l'indice può essere ricalcolato
+database[(1,2,[3,4],5)] = "seconda prova"   # questa istruzione dà errore
+#+END_SRC
+
+#+RESULTS:
+: prima prova
+: Traceback (most recent call last):
+:   File "<stdin>", line 1, in <module>
+: TypeError: unhashable type: 'list'
+
+  Slide: ([[file:docs/lecture05.pdf][schermo]]|[[file:docs/lecture05-print.pdf][stampa]])
+
 * <2017-10-04 Wed> Lezione 4 - Logica booleana, Costrutto IF
 
   Abbiamo visto  i rudimenti della  logica booleana e  degli operatori
