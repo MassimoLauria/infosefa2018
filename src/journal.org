@@ -3,15 +3,27 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
-* <2017-10-11 Wed> Lezione 6 - Iterazione su sequenze. Il modello a oggetti.
+*Avviso:* da Lunedì 16 Ottobre le lezioni svolte in Aula C (quelle del
+mercoledì e venerdì) si svolgeranno  in Aula 15 dello stesso edificio.
+Ovvero l'aula di fronte.
 
-  La lezione riguarda due temi. Il primo è fondamentale: come ripetere
-  una serie di istruzioni numerose  volte, con piccole variazioni, per
-  costruire programmi in  grado di effettuare un  numero di operazioni
+* <2017-10-13 Fri> Lezione 7 - Modello a oggetti.
+
+  Python è  un linguaggio di  programmazione in  cui ogni entità  è un
+  oggetto,  che ha  una sua  interfaccia  e può  essere manipolato  in
+  maniera  strutturata.  Tutti i  tipi  e  le  strutture dati  che  il
+  linguaggio fornisce possono essere utilizzate in questo modo.
+
+  Capitolo 8 del libro di testo.
+
+* <2017-10-11 Wed> Lezione 6 - Iterazione su sequenze.
+
+  La lezione riguarda un tema fondamentale: come ripetere una serie di
+  istruzioni  numerose volte,  con piccole  variazioni, per  costruire
+  programmi   in  grado   di  effettuare   un  numero   di  operazioni
   potenzialmente illimitato.
 
-  Il  secondo tema  è il  paradigma a  oggetti. Come  sono strutturati
-  e come si usano gli oggetti forniti dal linguaggio.
+  Capitolo 7 del libro di testo.
 
 * <2017-10-09 Mon> Laboratorio 2 - Esercizi in Python
 

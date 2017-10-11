@@ -66,6 +66,11 @@
   calendario  esatto è  disponibile [[https://calendar.google.com/calendar/embed?src=ul77ti1tiirukf44podk0l1ub0%2540group.calendar.google.com&ctz=Europe/Madrid][qui]].  Se dovessi  aver bisogno  di
   spostare o rimandare qualche lezione, ve lo comunicherò per tempo.
 
+  *Avviso:* da Lunedì  16 Ottobre le lezioni svolte in  Aula C (quelle
+  del  mercoledì   e  venerdì)  si   svolgeranno  in  Aula   15  dello
+  stesso edificio. Ovvero l'aula di fronte. 
+
+
 #+begin_export html
 <a href="https://www.google.it/maps/place/41%C2%B054'03.9%22N+12%C2%B030'48.2%22E/@41.9010922,12.5127169,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d41.9010907!4d12.5133782">
 <img src="images/map_AulaC.png" id="location-pic" />
