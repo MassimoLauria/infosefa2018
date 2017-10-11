@@ -3,6 +3,16 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-11 Wed> Lezione 6 - Iterazione su sequenze. Il modello a oggetti.
+
+  La lezione riguarda due temi. Il primo è fondamentale: come ripetere
+  una serie di istruzioni numerose  volte, con piccole variazioni, per
+  costruire programmi in  grado di effettuare un  numero di operazioni
+  potenzialmente illimitato.
+
+  Il  secondo tema  è il  paradigma a  oggetti. Come  sono strutturati
+  e come si usano gli oggetti forniti dal linguaggio.
+
 * <2017-10-09 Mon> Laboratorio 2 - Esercizi in Python
 
   - programma con i test: [[file:code/test_lab02.py][test_lab02.py]] 
