@@ -3,18 +3,17 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
-*Avviso:* da Lunedì 16 Ottobre le lezioni svolte in Aula C (quelle del
-mercoledì e venerdì) si svolgeranno  in Aula 15 dello stesso edificio.
-Ovvero l'aula di fronte.
-
-* <2017-10-13 Fri> Lezione 7 - Modello a oggetti.
+* <2017-10-13 Fri> Lezione 7 - Modello a oggetti. Dizionari e Insiemi.
 
   Python è  un linguaggio di  programmazione in  cui ogni entità  è un
   oggetto,  che ha  una sua  interfaccia  e può  essere manipolato  in
   maniera  strutturata.  Tutti i  tipi  e  le  strutture dati  che  il
-  linguaggio fornisce possono essere utilizzate in questo modo.
-
-  Capitolo 8 del libro di testo.
+  linguaggio fornisce possono essere utilizzate in questo modo. 
+  A lezione  abbiamo chiarito  degli elementi riguardanti  la sintassi
+  per  l'uso di  oggetti. Inoltre  abbiamo introdotto  i tipi  di dati
+  =dict= e =set=.
+  
+  Capitoli 8 e 9 del libro di testo.
 
 * <2017-10-11 Wed> Lezione 6 - Iterazione su sequenze.
 
