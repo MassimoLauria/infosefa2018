@@ -3,6 +3,19 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-16 Mon> Laboratorio 3 - Esercizi in Python :noexport:
+
+  - programma con i test: [[file:code/test_lab03.py][test_lab03.py]] 
+
+  Più precisamente dovrete:
+  - salvare le vostre funzioni in un file =lab03.py=
+  - scaricare il file =test_lab03.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab03.py
+
+  Slide: ([[file:docs/lab02.pdf][schermo]]|[[file:docs/lab02-print.pdf][stampa]])
+
 * <2017-10-13 Fri> Lezione 7 - Modello a oggetti. Dizionari e Insiemi.
 
   Python è  un linguaggio di  programmazione in  cui ogni entità  è un

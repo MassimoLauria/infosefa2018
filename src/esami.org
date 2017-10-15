@@ -1,16 +1,27 @@
-#+TITLE: Informatica @ SEFA 2017/2018 - Homework
+#+TITLE: Informatica @ SEFA 2017/2018 - Esame
 
 #+macro: subject_prefix =[INFOSEFA2017HW]=
 #+macro: email_address  =massimo.lauria@uniroma1.it=
 
-* Queste informazioni *non* sono definitive
+* Modalità di esame
+
+  L'esame consiste  un una prova  scritta e  una prova orale  che sarà
+  principalmente  una  discussione  della prova  scritta  con  qualche
+  domanda integrativa.  Le prove  di programmazione  Python/SQL devono
+  essere ancora pianificate.
+
+  - Primo appello scritto: 15/1/2018 - 9.00-14.00 - Aula 2 CU002
+  - Secondo appello scritto: 12/2/2018 - 9.00-14.00 - Aula 2 CU002
+  
+
+* Queste informazioni *non* sono definitive                        :noexport:
 
 Dovete aspettare che le modalità di esame e di consegna siano chiarite
 e  fissate  in  classe.   Qualunque  aggiornamento  al  riguardo  sarà
 comunicato in aula, su questa pagina, e sul diario del corso.
 
 
-* Come consegnare gli esercizi
+* Come consegnare gli esercizi :noexport:
 
   Gli studenti consegnano i propri  compiti via email, che poi vengono
   gestiti da  un software.  Questo software  è molto  primitivo perché
@@ -65,7 +76,7 @@ comunicato in aula, su questa pagina, e sul diario del corso.
      situazione
      #+end_example
   
-* Formato dei messaggi 
+* Formato dei messaggi :noexport:
 
   I messaggi  per la  consegna dei compiti  deveono essere  scritti in
   testo  semplice non  formattato (=text/plain=).  Molti programmi  di
