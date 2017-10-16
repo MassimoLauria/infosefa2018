@@ -84,12 +84,16 @@ tabella_senza_campi = {}
 tabella_vuota ={
     "codice" : (),
     "esercizio" : (),
-    "percentuale_voto" : ()
+    "percentuale voto" : ()
 }
 
 tabella_invalida = {
     "colonna1" : [100,1000,10000,100000],
     "colonna2" : ['7h(/@pCa:prG','x$|BpvG+30,a']
+}
+
+tabella_mista = {
+    "mista" : [10, "blah", -3, "blahblah"]
 }
 
 class TestLab03MaxMod(unittest.TestCase):
@@ -188,6 +192,23 @@ class TestLab03StampaTabella(unittest.TestCase):
 | Marta      | XX9289    | 19 |
 | Giacomo    | A1152     | 24 |
 """.strip())
+
+    def test_mista(self):
+        self.assertEqual(formatta_tabella(tabella_mista,['mista']),
+                         """
+| mista    |
+|----------|
+| 10       |
+| blah     |
+| -3       |
+| blahblah |
+""".strip())
+
+    def test_vuota(self):
+        self.assertEqual(formatta_tabella(tabella_vuota,['codice','esercizio','percentuale voto']),
+                         """
+| codice | esercizio | percentuale voto |
+|--------+-----------+------------------|""".strip())
 
     def test_ripetizioni(self):
         self.assertEqual(formatta_tabella(tabella1,['nome','nome','v']),
