@@ -3,6 +3,20 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-20 Fri> Lezione 9 - Ancora con l'induzione matematica
+
+  Continuiamo  a  trattare  l'induzione matematica  andando  oltre  la
+  versione più elementate.
+
+  ([[file:docs/lecture09.pdf][appunti]])
+
+* <2017-10-18 Wed> Lezione 8 - Induzione matematica
+
+  Abbiamo descritto  lo strumento  logico detto  induzione matematica.
+  Definizioni per induzione e dimostrazioni per induzione.
+
+  ([[file:docs/lecture08.pdf][appunti]])
+
 * <2017-10-16 Mon> Laboratorio 3 - Esercizi in Python
 
   - programma con i test: [[file:code/test_lab03.py][test_lab03.py]] 
