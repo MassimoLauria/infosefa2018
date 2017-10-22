@@ -3,6 +3,16 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-10-23 Mon> Laboratorio 4 - Ripasso ed esercitazione
+
+  Rivedremo   gli  esercizi   fatti  nelle   lezioni  di   laboratorio
+  precedenti. Molti studenti non sono ancora in grado di risolvere gli
+  esercizi o eseguire i programmi di test.
+
+  *AVVISO*:   questo lunedì  non  farò ricevimento.  Gli studenti  che
+  volevano  venire  a  ricevimento  sono pregati  di  contattarmi  per
+  riorganizzare durante questa settimana.
+  
 * <2017-10-20 Fri> Lezione 9 - Ancora con l'induzione matematica
 
   Continuiamo  a  trattare  l'induzione matematica  andando  oltre  la
