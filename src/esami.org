@@ -10,7 +10,7 @@
   domanda integrativa.  Le prove  di programmazione  Python/SQL devono
   essere ancora pianificate.
 
-  - Primo appello scritto: 15/1/2018 - 9.00-14.00 - Aula 2 CU002
+  - Primo appello scritto: 22/1/2018 - 9.00-14.00 - Aula 2 CU002
   - Secondo appello scritto: 12/2/2018 - 9.00-14.00 - Aula 2 CU002
 
   *Non ci sono esoneri*
