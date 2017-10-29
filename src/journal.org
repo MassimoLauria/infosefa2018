@@ -3,6 +3,24 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+
+* <2017-10-30 Mon> Laboratorio 5 - Efficienza sperimentale
+
+  Discutiamo il  problema di  testare l'efficienza  sperimentale degli
+  algoritmi  realizzati.  In  particolare  dovete  provare  le  vostre
+  implementazioni di
+
+   - ricerca lineare
+   - ricerca binaria
+   - ordinamento di una lista
+
+   sottoponendo input sempre più  grandi. Potete generare questi input
+   utilizzando     la     funzione     =numeriacaso=     dal     modulo
+   [[file:code/infosefa.py][infosefa.py]], come da slides.
+
+  Slide: ([[file:docs/lab05.pdf][schermo]]|[[file:docs/lab05-print.pdf][stampa]])
+
+
 * <2017-10-27 Fri> Lezione 11 - Ordinamenti e crescita della complessità
 
   Introduciamo il concetto  di complessità di un  algoritmo. Per farlo
