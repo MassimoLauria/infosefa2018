@@ -3,6 +3,13 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-11-13 Mon> Laboratorio 6 - Grafici di tempi di esecuzione
+
+  Oggi proviamo a fare dei grafici che indichino i tempi di esecuzione
+  di bubblesort e insertion sort. Chi sarà il più veloce?
+
+  Slide: ([[file:docs/lab06.pdf][schermo]]|[[file:docs/lab06-print.pdf][stampa]])
+
 * <2017-11-03 Fri> Lezione 12 - Bubblesort e ordinamenti per confronti
 
   Oggi vediamo  il Bubblesort,  un algoritmo classico  di ordinamento.

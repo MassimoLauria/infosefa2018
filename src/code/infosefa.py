@@ -31,3 +31,39 @@ def numeriacaso(N,minimo,massimo,ordinati=False):
     if ordinati:
         seq.sort()
     return seq
+
+def bubblesort(seq):
+    """Ordina la sequenza utilizzando bubblesort
+    """
+    end=len(seq)-1
+    while end>0:
+        last_swap = -1
+        for i in range(0,end):
+            if seq[i] > seq[i+1]:
+                last_swap = i
+                seq[i], seq[i+1] = seq[i+1],seq[i]
+        end=last_swap
+
+
+def argmin(seq,start,end):
+    minimo = seq[start]
+    indice = start
+    for i in range(start+1,end+1):
+        if seq[i] < minimo:
+            minimo = seq[i]
+            indice = i
+    return minimo,indice
+
+def insertionsort(seq):
+    """Ordina la sequenza utilizzando insertionsort
+    """    
+    for i in range(0,len(seq)-1):
+        
+        val,pos = argmin(seq,i,len(seq)-1)
+        
+        for j in range(pos-1,i-1,-1):
+            seq[j+1] = seq[j] 
+
+        seq[i] = val
+
+
