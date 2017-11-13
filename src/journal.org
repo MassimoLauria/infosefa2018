@@ -10,6 +10,8 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
   Slide: ([[file:docs/lab06.pdf][schermo]]|[[file:docs/lab06-print.pdf][stampa]])
 
+  Esempi di soluzioni del Laboratorio 3: [[file:code/lab03.py][lab03.py]]
+
 * <2017-11-03 Fri> Lezione 12 - Bubblesort e ordinamenti per confronti
 
   Oggi vediamo  il Bubblesort,  un algoritmo classico  di ordinamento.
@@ -89,6 +91,8 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
   Slide: ([[file:docs/lab03.pdf][schermo]]|[[file:docs/lab03-print.pdf][stampa]])
 
+  Esempi di soluzioni del Laboratorio 2: [[file:code/lab02.py][lab02.py]]
+
 * <2017-10-13 Fri> Lezione 7 - Modello a oggetti. Dizionari e Insiemi.
 
   Python è  un linguaggio di  programmazione in  cui ogni entità  è un
@@ -122,6 +126,8 @@ lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
   : $ python3 test_lab02.py
 
   Slide: ([[file:docs/lab02.pdf][schermo]]|[[file:docs/lab02-print.pdf][stampa]])
+
+  Esempi di soluzioni del Laboratorio 1: [[file:code/lab01.py][lab01.py]]
 
 * <2017-10-06 Fri> Lezione 5 - Sequenze, liste e tuple. Moduli.
 
