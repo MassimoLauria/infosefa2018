@@ -3,6 +3,14 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-11-15 Wed> Lezione 13 - Mergesort
+
+  Oggi vediamo  il Mergesort,  un algoritmo  di ordinamento  per ``per
+  confronto''   che   raggiunge  l'efficienza   asintotica   ottimale.
+  Prima però discutiamo un po' della struttura dati di pila (o stack).
+
+  ([[file:docs/lecture13.pdf][appunti]])
+
 * <2017-11-13 Mon> Laboratorio 6 - Grafici di tempi di esecuzione
 
   Oggi proviamo a fare dei grafici che indichino i tempi di esecuzione

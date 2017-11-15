@@ -66,4 +66,34 @@ def insertionsort(seq):
 
         seq[i] = val
 
+def merge(S,low,mid,high):
+      a=low
+      b=mid+1
+      temp=[]
+      # Inserisci in testa il più piccolo
+      while a<=mid and b<=high:
+          if S[a]<=S[b]:
+              temp.append(S[a])
+              a=a+1
+          else:
+              temp.append(S[b])
+              b=b+1
+      # Esattamente UNA sequenza è esaurita. Va aggiunta l'altra
+      residuo = range(a,mid+1) if a<=mid else range(b,high+1)
+      for i in residuo:
+          temp.append(S[i])
+      # Va tutto copiato su S[start:end+1]
+      for i,value in enumerate(temp,start=low):
+          S[i] = value
 
+
+def mergesort(S,start=0,end=None):
+    """Ordina la sequenza S[start:end+1] usando mergesort"""
+    if end is None:
+        end=len(S)-1
+    if start>=end:
+        return
+    mid=(end+start)//2
+    mergesort(S,start,mid)
+    mergesort(S,mid+1,end)
+    merge(S,start,mid,end)
