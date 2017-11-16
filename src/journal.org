@@ -3,6 +3,14 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-11-17 Fri> Lezione 14 - Equazioni di ricorrenza e ordinamenti lineari
+
+  Discutiamo più  in generale come risolvere  equazioni di ricorrenza,
+  e accenniamo  al Master  Theorem. Poi  continuiamo con  algoritmi di
+  ordinamento che funzionano in tempo lineare.
+
+  ([[file:docs/lecture14.pdf][appunti]])
+
 * <2017-11-15 Wed> Lezione 13 - Mergesort
 
   Oggi vediamo  il Mergesort,  un algoritmo  di ordinamento  per ``per

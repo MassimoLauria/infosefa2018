@@ -97,3 +97,55 @@ def mergesort(S,start=0,end=None):
     mergesort(S,start,mid)
     mergesort(S,mid+1,end)
     merge(S,start,mid,end)
+
+def countingsort(seq,key=None):
+    if len(seq)==0:
+        return
+    if key is None:
+        key = lambda x:x
+    # n operazioni
+    a = min(key(x) for x in seq)
+    b = max(key(x) for x in seq)
+    # creazione dei contatori
+    counter=[0]*(b-a+1)
+    for x in seq:
+        counter[key(x)-a] += 1
+    # posizioni finali di memorizzazione
+    posizioni=[0]*(b-a+1)
+    for i in range(1,len(counter)):
+        posizioni[i]=posizioni[i-1]+counter[i-1]
+    # costruzione dell'output
+    for x in seq[:]:
+        seq[posizioni[key(x)-a]]=x
+        posizioni[key(x)-a] += 1
+
+def key0(x):
+    return x & 255
+
+def key1(x):
+    return (x>>8) & 255
+
+def key2(x):
+    return (x>>16) & 255
+
+def key3(x):
+    return (x//(256*256*256)) & 255
+
+def key10(x):
+    return x & 65535
+
+def key32(x):
+    return (x>>16) & 65535
+
+def radixsort4x8bit(seq):
+    """Ordina una sequenza di numeri positivi di al massimo 32 bit
+    """
+    for my_key in [key0,key1,key2,key3]:
+        countingsort(seq,key=my_key)
+
+def radixsort2x16bit(seq):
+    """Ordina una sequenza di numeri positivi di al massimo 32 bit
+    """
+    for my_key in [key10,key32]:
+        countingsort(seq,key=my_key)
+
