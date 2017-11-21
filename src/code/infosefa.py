@@ -149,3 +149,21 @@ def radixsort2x16bit(seq):
     for my_key in [key10,key32]:
         countingsort(seq,key=my_key)
 
+
+def ricerca_linee(nome_file,encoding,stringa):
+    """Restituisce gli indici delle righe che contengono la stringa
+
+    Cerca all'interno di nome_file, le righe che contengono 'stringa'
+    e le restituisce.
+    """
+    with open(nome_file,encoding=encoding) as f:
+        return [i for i,text in enumerate(f,start=1) if text.find(stringa)!=-1]
+    
+def ricerca(nome_file,encoding,stringa):
+    """Mostra le linee del file che contengono la parola cercata
+    """
+    with open(nome_file,encoding=encoding) as f:
+        for i,text in enumerate(f,start=1):
+             if text.find(stringa)!=-1:
+                 print("{: 4}: {}".format(i,text))
+    
