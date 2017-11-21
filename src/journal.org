@@ -3,6 +3,15 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+* <2017-11-22 Wed> Lezione 15 - Uso di file e dati
+
+  I informazioni su  cui si lavora possono essere  salvati su supporti
+  di memorizzazione  permanenti. Per  fare questo i  sistemi operativi
+  forniscono il  concetto di  *file* vedremo  come leggere  e scrivere
+  dati su file.
+
+  Capitolo 10 del libro di testo.
+
 * <2017-11-20 Mon> Laboratorio 7 - Ripasso ed esercitazione
 
   Esercitazione  libera.  Sono  a   disposizione  per  aiutare  e  per
