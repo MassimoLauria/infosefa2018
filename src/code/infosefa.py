@@ -167,3 +167,104 @@ def ricerca(nome_file,encoding,stringa):
              if text.find(stringa)!=-1:
                  print("{: 4}: {}".format(i,text))
     
+
+def gettxtfilenames():
+    """Restituisce la lista dei nomi dei file *.txt nella cartella corrente
+    """
+    from os import listdir
+    return [name for name in listdir() if name[-4:]=='.txt']
+
+
+def conta_vocali(s):
+    '''Conta le vocali non accentate in s'''
+    s = s.lower()
+    count = 0
+    for v in 'aeiou':
+        count += s.count(v)
+    return count
+
+def file_to_dict(name,enc):
+    """Carica un dizionario da un file.
+
+    Il file deve avere CHAIVE : INFO per ogni riga non vuota 
+    """
+    with open(name,encoding=enc,mode='r') as data:
+        diz = {}
+        for line in data.readlines():
+
+            if len(line.strip())==0:
+                continue
+            
+            l = line.split(":")
+            if len(l) != 2:
+                raise ValueError("Dati mal formattata da una riga non vuota")
+
+            k,v = l[0].strip(),l[1].strip()
+            diz[k] = v
+
+        return diz
+
+
+def words_in_str(s):
+    """Restituisce la lista delle parole nella stringa
+
+    Le parole sono tutte standardizzate al minuscolo
+    """
+    # trova i caratter non alfabetici
+    noalpha=''
+    for c in s:
+        if not c.isalpha() and c not in noalpha:
+            noalpha += c
+    # sostituisce i caratteri non alfabetici con spazi
+    for c in noalpha:
+        s = s.replace(c,' ')
+    return s.lower().split()
+
+def words_in_file(fname,enc='utf-8'):
+    """Restituisce la lista delle parole nella stringa
+
+    Le parole sono tutte standardizzate al minuscolo
+    """
+    with open(fname,encoding=enc,mode='r') as data:
+        return words_in_str(data.read())
+
+def word_frequence(fname,ricerca,enc='utf-8'):
+    """Restituisce un dizionario che a ogni parola nella lsita 'ricerca'
+    associa la sua frequenza percentuale nel file 'fname', codificato
+    in 'enc'
+    """
+    # lista delle parole nel file
+    parole = words_in_file(fname,enc)
+
+    frequenze = {}
+    for word in ricerca:
+
+        # la parola in 'word' occorre ... volte
+        occorrenze = parole.count(word.lower())
+
+        # percentuale, arrotondata
+        freq = occorrenze*100 / len(parole)
+        freq = round(freq,3)
+
+        # memorizza nel dizionario
+        frequenze[word] = freq
+
+    return frequenze
+
+
+def searchdocuments(fnames,ricerca,enc='utf-8'):
+    """Ordina i file  in base al punteggio della ricerca
+    
+    Calcola la rilevanza di ogni file indicate, rispetto
+    alla 'query' fatta
+    
+    """
+    scores = []
+    for fname in fnames:
+        freqs = word_frequence(fname,ricerca,enc)
+        score = round(sum(freqs.values()),3)
+        scores.append((score,fname))
+    scores.sort(reverse=True)
+    for score,fname in scores:
+        print(fname,score)
+    

@@ -3,9 +3,29 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
+
+* <2017-11-22 Wed> Lezione 16 - Ricerca in documenti di testo
+
+  Vediamo  come  utilizzare  le  operazioni su  stringhe  e  file  per
+  calcolare statistiche  su file di testo.  In particolare costruiremo
+  una  funzione che  dati  alcuni  file, li  classifica  in base  alla
+  frequenza con cui delle chiavi di ricerca occorrono al loro interno.
+
+  Capitolo 11 del libro di testo.
+
+  I  documenti  utilizzati  per  gli   esempi  a  lezione  sono  copie
+  liberamente utilizzabili di libri archiviati dal progetto [[https://www.gutenberg.org/][Gutemberg]].
+
+  - [[file:docs/holmes.txt][The Adventures of Sherlock Holmes - Arthur Conan Doyle]] 
+  - [[file:docs/alice.txt][Alice in Wonderland - Lewis Carrol]] 
+  - [[file:docs/frankenstein.txt][Frankenstein - Mary Shelley]]
+  - [[file:docs/mobydick.txt][Moby Dick - Herman Melville]] 
+  - [[file:docs/prince.txt][Il Principe (Eng) - Nicolo Macchiavelli]] 
+  - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
+  
 * <2017-11-22 Wed> Lezione 15 - Uso di file e dati
 
-  I informazioni su  cui si lavora possono essere  salvati su supporti
+  Le informazioni su  cui si lavora possono essere  salvati su supporti
   di memorizzazione  permanenti. Per  fare questo i  sistemi operativi
   forniscono il  concetto di  *file* vedremo  come leggere  e scrivere
   dati su file.

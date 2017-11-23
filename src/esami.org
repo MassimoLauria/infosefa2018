@@ -7,11 +7,19 @@
 
   L'esame consiste  un una prova  scritta e  una prova orale  che sarà
   principalmente  una  discussione  della prova  scritta  con  qualche
-  domanda integrativa.  Le prove  di programmazione  Python/SQL devono
-  essere ancora pianificate.
+  domanda integrativa.
+
+  All'esame  orale   lo  studente   dovrà  portare  un   esercizio  di
+  programmazione Python/SQL che sarà  testato con degli input segreti.
+  Il  testo  di  questo  esercizio   verrà  pubblicato  dopo  la  fine
+  del corso.
 
   - Primo appello scritto: 22/1/2018 - 9.00-14.00 - Aula 2 CU002
   - Secondo appello scritto: 12/2/2018 - 9.00-14.00 - Aula 2 CU002
+  - Terzo appello scritto: 11/6/2018 - 9.00-14.00 - Aula 2 CU002
+  - Quarto appello scritto: 23/7/2018 - 9.00-14.00 - Aula 2 CU002
+  - Quinto appello scritto: 17/9/2018 - 9.00-14.00 - Aula 2 CU002
+
 
   *Non ci sono esoneri*
 

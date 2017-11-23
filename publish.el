@@ -120,12 +120,12 @@
          :recursive t
          :publishing-function org-publish-attachment
          )
-        ("papers"
+        ("docs"
          :base-directory ,base-directory
-         :base-extension "pdf\\|ps\\|ps.gz\\|tex"
+         :base-extension "pdf\\|ps\\|ps.gz\\|tex\\|txt"
          :publishing-directory ,publishing-directory
          :recursive t
          :publishing-function org-publish-attachment
          )
-        ("main" :components ("pages" "pages-html" "papers" "code" "assets"))
+        ("main" :components ("pages" "pages-html" "docs" "code" "assets"))
         ))
