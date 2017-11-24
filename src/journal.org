@@ -1,8 +1,25 @@
 #+TITLE: Informatica @ SEFA 2017/2018 - Diario delle lezioni
 
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
-lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
+lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
+Il codice di alcune funzioni viste durante il corso si trova nel file:
 
+- [[file:code/infosefa.py][infosefa.py]] 
+
+che verrà aggiornato durante il corso.
+
+* <2017-11-27 Mon> Laboratorio 8 - Elaborazione di stringhe
+
+  - programma con i test: [[file:code/test_lab08.py][test_lab08.py]] 
+
+  Più precisamente dovrete:
+  - salvare le vostre funzioni in un file =lab08.py=
+  - scaricare il file =test_lab08.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab08.py
+
+  Slide: ([[file:docs/lab08.pdf][schermo]]|[[file:docs/lab08-print.pdf][stampa]])
 
 * <2017-11-24 Fri> Lezione 16 - Ricerca in documenti di testo
 
