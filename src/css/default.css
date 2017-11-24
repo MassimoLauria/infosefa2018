@@ -217,14 +217,13 @@ img#profile-pic {
     margin-left: 0;
     margin-right: 2em;
     margin-top: 2em;
-    margin-bottom: 2em;
+    margin-bottom: 0em;
 }
 
 
 #contacts-list {
     list-style-type: none;
     padding: 0;
-    float:left;
 }
 .contacts {
     margin: 0;
@@ -247,8 +246,8 @@ img#location-pic {
     border-radius: 50%;
     margin-left: 0;
     margin-right: 2em;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    margin-top: 0em;
+    margin-bottom: 0em;
     overflow: auto;
 }
 
