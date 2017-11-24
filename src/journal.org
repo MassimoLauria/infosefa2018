@@ -4,7 +4,7 @@ Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni, ed il  relativo materiale. Tenete d'occhio  questa pagina.
 
 
-* <2017-11-22 Wed> Lezione 16 - Ricerca in documenti di testo
+* <2017-11-24 Fri> Lezione 16 - Ricerca in documenti di testo
 
   Vediamo  come  utilizzare  le  operazioni su  stringhe  e  file  per
   calcolare statistiche  su file di testo.  In particolare costruiremo
