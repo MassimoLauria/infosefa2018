@@ -36,6 +36,14 @@
 #+end_export
 
  
+
+* Avviso
+
+  Ci saranno due lezioni di recupero, entrambe in Aula 15 - CU035.
+
+  - Giovedì 7 Dicembre 2017. Ore 13:00--16:00
+  - Giovedì 14 Dicembre 2017. Ore 13:00--16:00
+
 * Descrizione del corso
 
   Questo corso è stato progettato per dare agli studenti delle nozioni
