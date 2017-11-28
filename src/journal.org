@@ -8,6 +8,17 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che verrà aggiornato durante il corso.
 
+* <2017-11-29 Wed> Lezione 17 - Introduzione alle basi di dati
+
+  Introduciamo il concetto di sistema informativo e di base di dati.  
+  Facciamo  una   breve  panoramica  sui   metodi  e  sulle   fasi  di
+  progettazione   di  una   base  di   dati,  e   sulle  problematiche
+  da  affrontare. Introduciamo  poi il  modello relazionale  e vediamo
+  brevemente criteri  di integrità e qualità,  basati sulle dipendenze
+  funzionali e  sulle forme normali.
+
+  Capitolo 1 e 2 del Manuale SQL.
+
 * <2017-11-27 Mon> Laboratorio 8 - Elaborazione di stringhe
 
   - programma con i test: [[file:code/test_lab08.py][test_lab08.py]] 
