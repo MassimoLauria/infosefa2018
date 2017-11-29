@@ -8,14 +8,24 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che verrà aggiornato durante il corso.
 
+
+* <2017-12-01 Fri> Lezione 18 - Algebra relazionale
+
+  Concludiamo le cose dette nella lezione precedente. Ovvero i criteri
+  di integrità  e di qualità  di uno schema relazionale,  basati sulle
+  dipendenze  funzionali   e  sulle  forme  normali.   Discutiamo  poi
+  l'algebra  relazionale,   ovvero  le  operazioni   di  manipolazioni
+  delle tabelle e di incrocio dei dati.
+
+  Capitolo 3 del Manuale SQL.
+
+  
 * <2017-11-29 Wed> Lezione 17 - Introduzione alle basi di dati
 
   Introduciamo il concetto di sistema informativo e di base di dati.  
   Facciamo  una   breve  panoramica  sui   metodi  e  sulle   fasi  di
   progettazione   di  una   base  di   dati,  e   sulle  problematiche
-  da  affrontare. Introduciamo  poi il  modello relazionale  e vediamo
-  brevemente criteri  di integrità e qualità,  basati sulle dipendenze
-  funzionali e  sulle forme normali.
+  da  affrontare. Introduciamo  poi il  modello relazionale.  
 
   Capitolo 1 e 2 del Manuale SQL.
 
