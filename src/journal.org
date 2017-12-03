@@ -6,7 +6,29 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 - [[file:code/infosefa.py][infosefa.py]] 
 
-che verrà aggiornato durante il corso.
+che  verrà  aggiornato durante  il  corso.  Le  basi  di dati  su  cui
+esercitarvi sono:
+
+- Registro automobilistico: una base di  dati popolata che viene usata
+  nel manuale SQL del corso. 
+
+  + ([[file:data/registro_automobilistico_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
+  + ([[file:data/registro_automobilistico.sql][Comandi SQL]]) importabile in qualunque gestore di database.
+
+- Chinook: una base  di dati popolata con informazioni  relative ad un
+  negozio musicale, e rilasciata da [[https://github.com/lerocha/chinook-database][Luis Rocha]].
+
+  + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
+  + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
+
+* <2017-12-04 Mon> Laboratorio 9 - SQLite e esercizi Python
+
+  Vediamo come usare il comando SQLite  per accedere alle basi di dati
+  di prova. In questo modo  potete cominciare ad esplorare questi dati
+  usando comandi SQL.  Vediamo poi le soluzioni  degli esercizi Python
+  della volta scorsa.
+
+  Slide: ([[file:docs/lab09.pdf][schermo]]|[[file:docs/lab09-print.pdf][stampa]])
 
 
 * <2017-12-01 Fri> Lezione 18 - Algebra relazionale

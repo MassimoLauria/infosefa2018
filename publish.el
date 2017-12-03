@@ -108,7 +108,7 @@
          )
         ("assets"
          :base-directory ,base-directory
-         :base-extension "css\\|js\\|png\\|jpg\\|gif\\|mp3\\|ogg\\|swf\\|tar.gz"
+         :base-extension "css\\|js\\|png\\|jpg\\|gif\\|mp3\\|ogg\\|swf\\|tar.gz\\|sqlite"
          :publishing-directory ,publishing-directory
          :recursive t
          :publishing-function org-publish-attachment
