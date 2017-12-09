@@ -21,6 +21,25 @@ esercitarvi sono:
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+* <2017-12-11 Mon> Laboratorio 10 - Suggerimenti per lo sviluppo Python
+
+  Per  migliorare  ed  esercitarsi   nella  programmazione  Python  ho
+  preparato delle funzioni per testare i programmi, che sono contenute
+  in [[file:code/infosefa.py][infosefa.py]]. Vediamo queste funzioni  per la costruzione di test,
+  e  poi   discutiamo  come   completare  il  codice   in  [[file:code/minmods.py][minmods.py]],
+  utilizzando   un  ambiente   di  sviluppo   (e.g.  Thonny)   con  il
+  debugger integrato.
+
+  Slide: ([[file:docs/lab10.pdf][schermo]]|[[file:docs/lab10-print.pdf][stampa]])
+
+* <2017-12-07 Thu> Lezione di recupero 1
+
+  La lezione  si svolge  nell'Aula 15 del  CU035. Ovvero  nella solita
+  aula dove vengono fatte le lezioni teoriche. L'idea è di rivedere il
+  materiale delle precedenti lezioni e chiarire dubbi.
+
+  Orario: 13:00–16:00
+
 * <2017-12-06 Wed> Lezione 19 - Query SQL su singole tabelle
   
    Prima spieghiamo come è strutturata  una tabella e come specificare
