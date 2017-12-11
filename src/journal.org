@@ -21,6 +21,15 @@ esercitarvi sono:
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+* <2017-12-13 Wed> Lezione 20 - Query SQL - Combinare più tabelle
+  
+  Vediamo  come   costruire  query  SQL   che  combinano  i   dati  di
+  più tabelle.  In particolare come utilizzare  il prodotto cartesiano
+  e i  vari tipi di  operatori JOIN. Contestualmente vedremo  l'uso di
+  =foreign key= per impostare vincoli di integrità referenziale.
+
+  Slide: ([[file:docs/lecture20.pdf][schermo]]|[[file:docs/lecture20-print.pdf][stampa]])
+
 * <2017-12-11 Mon> Laboratorio 10 - Suggerimenti per lo sviluppo Python
 
   Per  migliorare  ed  esercitarsi   nella  programmazione  Python  ho

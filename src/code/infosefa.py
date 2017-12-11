@@ -268,3 +268,72 @@ def searchdocuments(fnames,ricerca,enc='utf-8'):
     for score,fname in scores:
         print(fname,score)
     
+
+
+# Funzioni per il test
+def testRisultato(nome,r_atteso,func,*args):
+    """Verifica che func(*args) restituisca r_atteso
+
+    Calcola func(*args) e verifica che il valore restituito sia uguale
+    a r_accesso. Ad esempio func è la funzione sum, e args=[1,2,4,6],
+    il test calcola sum(1,2,3,4).
+
+    INPUT:
+    - nome: nome del test
+    - r_atteso: valore atteso dal test
+    - func: funzione da testare
+    - args: sequenza di argomenti da testare
+    
+    PRINT:
+    Stampa GOOD o FAIL a seconda dell'esito del test
+
+    OUTPUT:
+    True o False a seconda dell'esito del test
+    """
+    try:
+        res=func(*args)
+    except BaseException as err:
+        print("FAIL {}. Ottenuto errore {}".format(nome,err))
+        return False
+
+    if res==r_atteso:
+        print("GOOD {}. Ottenuto {}".format(nome,res))
+        return True
+    else:
+        print("FAIL {}. Ottenuto {} invece di {}".format(nome,res,r_atteso))
+        return False
+
+def testErrore(nome,e_atteso,func,*args):
+    """Verifica che func(*args) sollevi l'errore e_atteso
+
+    Calcola func(*args) e verifica la funzione sollevi un errore, ed
+    in particolare l'errore e_atteso.
+
+    INPUT:
+    - nome: nome del test
+    - e_atteso: valore atteso dal test
+    - func: funzione da testare
+    - args: sequenza di argomenti da testare
+    
+    PRINT:
+    Stampa GOOD o FAIL a seconda dell'esito del test
+
+    OUTPUT:
+    True o False a seconda dell'esito del test
+    """
+    if not issubclass(e_atteso,BaseException):
+        raise TypeError('Il tipo di errore da testare non è valido.')
+    
+    try:
+        res=func(*args)
+    except e_atteso:
+        print("GOOD {}. Errore atteso {}".format(nome,e_atteso))
+        return True
+    except BaseException as err:
+        print("FAIL {}. Errore {} invece di {}".format(nome,err,e_atteso))
+        return False
+    else:
+        print("FAIL {}. Manca l'errore atteso {}".format(nome,e_atteso))
+        return False
+    
+
