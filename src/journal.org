@@ -28,6 +28,8 @@ esercitarvi sono:
   e i  vari tipi di  operatori JOIN. Contestualmente vedremo  l'uso di
   =foreign key= per impostare vincoli di integrità referenziale.
 
+  Capitoli 5 e 6 del manuale SQL.
+
   Slide: ([[file:docs/lecture20.pdf][schermo]]|[[file:docs/lecture20-print.pdf][stampa]])
 
 * <2017-12-11 Mon> Laboratorio 10 - Suggerimenti per lo sviluppo Python
@@ -57,6 +59,8 @@ esercitarvi sono:
   possono  essere  utilizzate  nella   clausola  =where=  e  l'uso  di
   =order by=.
 
+  Sezioni 4.1, 4.2, 4.3, 4.8 del Manuale di SQL.
+
   Slide: ([[file:docs/lecture19.pdf][schermo]]|[[file:docs/lecture19-print.pdf][stampa]])
   
 * <2017-12-04 Mon> Laboratorio 9 - SQLite e esercizi Python
@@ -78,7 +82,6 @@ esercitarvi sono:
   delle tabelle e di incrocio dei dati.
 
   Capitolo 3 del Manuale SQL.
-
   
 * <2017-11-29 Wed> Lezione 17 - Introduzione alle basi di dati
 
@@ -87,7 +90,7 @@ esercitarvi sono:
   progettazione   di  una   base  di   dati,  e   sulle  problematiche
   da  affrontare. Introduciamo  poi il  modello relazionale.  
 
-  Capitolo 1 e 2 del Manuale SQL.
+  Capitoli 1 e 2 del Manuale SQL.
 
 * <2017-11-27 Mon> Laboratorio 8 - Elaborazione di stringhe
 
