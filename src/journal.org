@@ -21,6 +21,26 @@ esercitarvi sono:
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+* <2017-12-15 Fri> Lezione 21 - SQL - Elementi più avanzato
+  
+  In  questa lezione  vediamo come  eseguire query  SQL che  calcolano
+  funzioni  sulle  colonne  della   tabella:  i  cosiddetti  operatori
+  aggregati (o funzioni di gruppo).  Concludiamo poi le lezioni su SQL
+  con una  descrizione sommaria di  quelle caratteristiche di  SQL che
+  non faremo in tempo a vedere.
+
+  Sezioni 4.5, 4.6, 4.7 e Capitolo 7 del manuale SQL.
+
+  Slide: ([[file:docs/lecture20.pdf][schermo]]|[[file:docs/lecture20-print.pdf][stampa]])
+
+* <2017-12-14 Thu> Lezione di recupero 2
+
+  La lezione  si svolge  nell'Aula 15 del  CU035. Ovvero  nella solita
+  aula dove vengono fatte le lezioni teoriche. L'idea è di rivedere il
+  materiale delle precedenti lezioni e chiarire dubbi.
+
+  Orario: 14:30–17:30
+
 * <2017-12-13 Wed> Lezione 20 - Query SQL - Combinare più tabelle
   
   Vediamo  come   costruire  query  SQL   che  combinano  i   dati  di
@@ -72,7 +92,6 @@ esercitarvi sono:
 
   Slide: ([[file:docs/lab09.pdf][schermo]]|[[file:docs/lab09-print.pdf][stampa]])
 
-  
 * <2017-12-01 Fri> Lezione 18 - Algebra relazionale
 
   Concludiamo le cose dette nella lezione precedente. Ovvero i criteri
