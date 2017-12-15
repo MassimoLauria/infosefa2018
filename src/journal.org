@@ -31,7 +31,7 @@ esercitarvi sono:
 
   Sezioni 4.5, 4.6, 4.7 e Capitolo 7 del manuale SQL.
 
-  Slide: ([[file:docs/lecture20.pdf][schermo]]|[[file:docs/lecture20-print.pdf][stampa]])
+  Slide: ([[file:docs/lecture21.pdf][schermo]]|[[file:docs/lecture21-print.pdf][stampa]])
 
 * <2017-12-14 Thu> Lezione di recupero 2
 
