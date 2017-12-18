@@ -21,6 +21,11 @@ esercitarvi sono:
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+* <2017-12-20 Wed> Lezione 22 - Lezione conclusiva
+
+  Ricapitoliamo il programma svolto durante  il corso, e discutiamo le
+  modalità di esame. 
+
 * <2017-12-18 Mon> Laboratorio 11 - Integrare Python e SQL
 
   Vediamo come  si possano  interrogare basi di  dati (in  questo caso
