@@ -26,6 +26,10 @@ esercitarvi sono:
   Ricapitoliamo il programma svolto durante  il corso, e discutiamo le
   modalità di esame. 
 
+  Slide: ([[file:docs/lecture22.pdf][schermo]]|[[file:docs/lecture22-print.pdf][stampa]])
+
+  Esempi di soluzioni del Laboratorio 11: [[file:code/lab11.py][lab11.py]]
+
 * <2017-12-18 Mon> Laboratorio 11 - Integrare Python e SQL
 
   Vediamo come  si possano  interrogare basi di  dati (in  questo caso
