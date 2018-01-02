@@ -108,6 +108,9 @@ esercitarvi sono:
 
   Slide: ([[file:docs/lab09.pdf][schermo]]|[[file:docs/lab09-print.pdf][stampa]])
 
+  Esempi di soluzioni del Laboratorio 8: [[file:code/lab08.py][lab08.py]]
+
+
 * <2017-12-01 Fri> Lezione 18 - Algebra relazionale
 
   Concludiamo le cose dette nella lezione precedente. Ovvero i criteri
