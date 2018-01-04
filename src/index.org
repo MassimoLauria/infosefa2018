@@ -39,7 +39,7 @@
 
 * Avviso
 
-  <2018-01-04 Thu> É stato pubblicato l'esercizio di programmazione da
+  <2018-01-04 Thu> È stato pubblicato l'esercizio di programmazione da
   portare all'orale.
   
 * Descrizione del corso
