@@ -5,14 +5,11 @@
 
 * Modalità di esame
 
+  *Non ci sono esoneri*
+
   L'esame consiste  un una prova  scritta e  una prova orale  che sarà
   principalmente  una  discussione  della prova  scritta  con  qualche
   domanda integrativa.
-
-  All'esame  orale   lo  studente   dovrà  portare  un   esercizio  di
-  programmazione Python/SQL che sarà  testato con degli input segreti.
-  Il  testo  di  questo  esercizio   verrà  pubblicato  dopo  la  fine
-  del corso.
 
   - Primo appello scritto: 22/1/2018 - 9.00-14.00 - Aula 2 CU002
   - Secondo appello scritto: 12/2/2018 - 9.00-14.00 - Aula 2 CU002
@@ -20,84 +17,11 @@
   - Quarto appello scritto: 23/7/2018 - 9.00-14.00 - Aula 2 CU002
   - Quinto appello scritto: 17/9/2018 - 9.00-14.00 - Aula 2 CU002
 
+  All'esame  orale   lo  studente   dovrà  portare  un   esercizio  di
+  programmazione Python/SQL che sarà  testato con degli input segreti.
+  Per facilitare  lo svolgimento dell'esercizio sono  inclusi dei test
+  preliminari che verificare che le soluzioni siano bene impostate.
 
-  *Non ci sono esoneri*
-
-* Queste informazioni *non* sono definitive                        :noexport:
-
-Dovete aspettare che le modalità di esame e di consegna siano chiarite
-e  fissate  in  classe.   Qualunque  aggiornamento  al  riguardo  sarà
-comunicato in aula, su questa pagina, e sul diario del corso.
-
-
-* Come consegnare gli esercizi :noexport:
-
-  Gli studenti consegnano i propri  compiti via email, che poi vengono
-  gestiti da  un software.  Questo software  è molto  primitivo perché
-  l'ho  improvvisato   nelle  due   settimane  precedenti   al  corso.
-  *Fatemi sapere*  se ci  sono dei  problemi tecnici.  Perché un'email
-  venga vista dal software 
-
-  - deve avere {{{subject_prefix}}} all'inizio dell'oggetto, ad esempio
-    
-    *Oggetto:* {{{subject_prefix}}} =consegna del primo esercizio=
- 
-  - deve essere inviata all'indirizzo {{{email_address}}}.
-    
-  *Mi  raccomando*: se  una  delle due  condizioni  sopra non  dovesse
-  essere  rispettata  i  vostri messaggi  potrebbero  essere  perduti,
-  dimenticati o ignorati.
-
-  Il software accetta tre tipi di email.
-
-  1. Iscrizione  al sistema. Deve essere  fatta una sola volta,  e non
-     sarà possibile  consegnare finché non viene  effettuata, inviando
-     un messaggio con i propri dati, nella forma
-
-     #+begin_example
-     iscrizione
+  - Testo dell esercizio: [[file:docs/esercizio2017.pdf][esercizio2017.pdf]] 
+  - Test preliminari: [[file:code/test_esercizio2017.py][test_esercizio2017.py]]
   
-     nome : <NOME> 
-     cognome : <COGNOME>
-     matricola: <NUMERO DI MATRICOLA>
-  
-     #+end_example
-
-     Successivamente all  registrazione tutti i messaggi  che arrivano
-     dallo  stesso indirizzo  di posta  elettronica vengono  associati
-     allo studente indicato.
-
-  2. Consegna. Ad  ogni compito  corrisponde un  codice alfanumerico.
-     La soluzione  del compito deve  essere inviata come  (unico) file
-     allegato ad un messaggio della forma
- 
-     #+begin_example
-     consegna
-  
-     homework : <CODICE>
-  
-     #+end_example
-
-  3. Situazione. Lo studente può chiedere di conoscere lo stato dei
-     suoi esercizi con un messaggio della forma
-     
-     #+begin_example
-     situazione
-     #+end_example
-  
-* Formato dei messaggi :noexport:
-
-  I messaggi  per la  consegna dei compiti  deveono essere  scritti in
-  testo  semplice non  formattato (=text/plain=).  Molti programmi  di
-  posta  elettronica   mandano  messaggi  in  HTML.   Questi  verranno
-  ignorati.  Altri programmi  di  posta mandano  messaggi  in HTML  ma
-  inviato contestualmente  una versione in  testo semplice che  ha più
-  o  meno gli  stessi  contenuti.  Se la  versione  in testo  semplice
-  rispetta le specifiche allora non c'è problema.
-
-  Lo studente è responsabile delle email che invia e deve farsi carico
-  di  controllare che  i messaggi  soddisfino i  requisiti di  formato
-  necessari.  In caso  contrario  i messaggi  (ed  i relativi  compiti
-  consegnati) potrebbero andare persi o potrebbero essere ignorati.
-
-  *Controllate la configurazione del vostro programma di posta elettronica.*

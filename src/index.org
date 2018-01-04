@@ -39,11 +39,9 @@
 
 * Avviso
 
-  Ci saranno due lezioni di recupero, entrambe in Aula 15 - CU035.
-
-  - Giovedì 7 Dicembre 2017. Ore 13:00--16:00
-  - Giovedì 14 Dicembre 2017. Ore 14:30--17:30
-
+  <2018-01-04 Thu> É stato pubblicato l'esercizio di programmazione da
+  portare all'orale.
+  
 * Descrizione del corso
 
   Questo corso è stato progettato per dare agli studenti delle nozioni
