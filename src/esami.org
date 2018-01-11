@@ -5,6 +5,8 @@
 
 * Modalità di esame
 
+  Le modalità di esame sono chiarite nelle [[file:docs/lecture22.pdf][slide]] dell'ultima lezione.
+
   *Non ci sono esoneri*
 
   L'esame consiste  un una prova  scritta e  una prova orale  che sarà
