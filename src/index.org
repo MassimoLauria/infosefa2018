@@ -39,6 +39,9 @@
 
 * Avviso
 
+  <2018-01-14 Sun> La chiusura delle prenotazioni per il primo appello
+  scritto è stata estesa al 19/1/2018.
+
   <2018-01-04 Thu> È stato pubblicato l'esercizio di programmazione da
   portare all'orale.
   
