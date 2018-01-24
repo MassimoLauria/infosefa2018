@@ -15,6 +15,11 @@ esercitarvi sono:
   + ([[file:data/registro_automobilistico_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/registro_automobilistico.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+  <2018-01-24    Wed>   *Aggiornamento:*    i   file    del   registro
+  automobilistico presenti sul sito  avevano un difetto. Nella tabella
+  =Modelli=   i    dati   di   =Cod_Fabbrica=    e   =Numero_Versioni=
+  erano invertiti. I nuovi file sono corretti.
+
 - Chinook: una base  di dati popolata con informazioni  relative ad un
   negozio musicale, e rilasciata da [[https://github.com/lerocha/chinook-database][Luis Rocha]].
 

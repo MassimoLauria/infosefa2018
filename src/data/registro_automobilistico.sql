@@ -60,8 +60,8 @@ insert into Combustibili values
 create table Modelli (
        Cod_Modello  nchar(3) primary key,
        Nome_Modello nvarchar(30),
-       Numero_Versioni integer,
-       Cod_Fabbrica  nchar(3) references Fabbriche(Cod_Fabbrica)
+       Cod_Fabbrica  nchar(3) references Fabbriche(Cod_Fabbrica),
+       Numero_Versioni integer
 );
 
 insert into Modelli values

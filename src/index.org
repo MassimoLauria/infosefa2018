@@ -39,6 +39,11 @@
 
 * Avvisi
 
+  <2018-01-24 Wed>  *Attenzione:* i file del  registro automobilistico
+  presenti sul sito avevano un difetto. Nella tabella =Modelli= i dati
+  di =Cod_Fabbrica= e =Numero_Versioni=  erano invertiti. I nuovi file
+  sono corretti. (Li trovate sul [[file:journal.org][diario]] delle lezioni)
+
   <2018-01-19 Fri> Gli studenti  del vecchio ordinamento (2009) adesso
   possono  iscriversi  agli  appelli.   Per  loro  la  chiusura  delle
   prenotazioni all'appello del 22 Gennaio scade il 21/1/2018.
