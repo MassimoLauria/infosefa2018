@@ -4,7 +4,7 @@
     <ul id="nav">
       <li class="left" style="font-variant: small-caps">
         <a id="homelink" href="index.html">
-          Informatica@SEFA 2017/2018
+          Informatica@SEFA 2018/2019
           </a>
       </li>
       <div class="right">

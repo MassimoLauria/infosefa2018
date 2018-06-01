@@ -1,31 +1,29 @@
-#+TITLE: Informatica @ SEFA 2017/2018 - Esame
-
-#+macro: subject_prefix =[INFOSEFA2017HW]=
-#+macro: email_address  =massimo.lauria@uniroma1.it=
+#+TITLE: Informatica @ SEFA 2018/2019 - Esame
 
 * Modalità di esame
 
-  Le modalità di esame sono chiarite nelle [[file:docs/lecture22.pdf][slide]] dell'ultima lezione.
+  Le date degli appelli sono ancora da decidere.
+
+  Le   modalità  di   esame  saranno   precisate  durante   il  corso.
+  Quanto  scritto  qui  è  indicativo  di quello  che  è  stato  fatto
+  l'anno scorso.
+
+  - prova scritta in aula
+  - esercizio di programmazione
+  - esame orale.
 
   *Non ci sono esoneri*
 
-  L'esame consiste  un una prova  scritta e  una prova orale  che sarà
-  principalmente  una  discussione  della prova  scritta  con  qualche
-  domanda    integrativa,    ed    il   controllo    degli    esercizi
-  di programmazione.
+  L'esame  orale  sarà  principalmente  una  discussione  della  prova
+  scritta  con qualche  domanda integrativa,  più la  correzione degli
+  esercizi di programmazione.
+  
+  Lo  studente  dovrà  portare,   per  accedere  all'esame  orale,  un
+  esercizio di  programmazione Python/SQL  che sarà testato  con degli
+  input  segreti. Per  facilitare lo  svolgimento dell'esercizio  sono
+  inclusi dei test  preliminari che verificare che  le soluzioni siano
+  bene impostate.
 
-  - Primo appello scritto: 22/1/2018 - 9.00-14.00 - Aula 2 CU002  [[file:docs/risultatiscritto.2018.01.22.pdf][(risultati)]]
-  - Secondo appello scritto: 12/2/2018 - 9.00-14.00 - Aula 2 CU002  [[file:docs/risultatiscritto.2018.02.12.pdf][(risultati)]]
-  - Appello straordinario (solo orale): 23/4/2018 - 11.00 - Ufficio del docente
-  - Terzo appello scritto: 11/6/2018 - 9.00-14.00 - Aula 2 CU002
-  - Quarto appello scritto: 23/7/2018 - 9.00-14.00 - Aula 2 CU002
-  - Quinto appello scritto: 17/9/2018 - 9.00-14.00 - Aula 2 CU002
-
-  All'esame  orale   lo  studente   dovrà  portare  un   esercizio  di
-  programmazione Python/SQL che sarà  testato con degli input segreti.
-  Per facilitare  lo svolgimento dell'esercizio sono  inclusi dei test
-  preliminari che verificare che le soluzioni siano bene impostate.
-
-  - Testo dell esercizio: [[file:docs/esercizio2017.pdf][esercizio2017.pdf]] 
-  - Test preliminari: [[file:code/test_esercizio2017.py][test_esercizio2017.py]]
+  - Testo dell esercizio: ancora da annunciare
+  - Test preliminari: ancora da annunciare
   

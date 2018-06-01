@@ -1,4 +1,4 @@
-#+TITLE: Informatica @ SEFA 2017/2018
+#+TITLE: Informatica @ SEFA 2018/2019
 
 #
 # Force the  link to the  homepage to  be highlighted, to  work around
@@ -39,20 +39,7 @@
 
 * Avvisi
 
-  <2018-01-24 Wed>  *Attenzione:* i file del  registro automobilistico
-  presenti sul sito avevano un difetto. Nella tabella =Modelli= i dati
-  di =Cod_Fabbrica= e =Numero_Versioni=  erano invertiti. I nuovi file
-  sono corretti. (Li trovate sul [[file:journal.org][diario]] delle lezioni)
-
-  <2018-01-19 Fri> Gli studenti  del vecchio ordinamento (2009) adesso
-  possono  iscriversi  agli  appelli.   Per  loro  la  chiusura  delle
-  prenotazioni all'appello del 22 Gennaio scade il 21/1/2018.
-
-  <2018-01-14 Sun> La chiusura delle prenotazioni per il primo appello
-  scritto è stata estesa al 19/1/2018.
-
-  <2018-01-04 Thu> È stato pubblicato l'esercizio di programmazione da
-  portare all'orale.
+  Nessun avviso.
   
 * Descrizione del corso
 
@@ -81,13 +68,12 @@
   
 * Calendario, Orari e Aule
 
-  Il corso si svolge dal 25 Settembre  2017 al 20 dicembre 2017, ed il
-  calendario  esatto è  disponibile [[https://calendar.google.com/calendar/embed?src=ul77ti1tiirukf44podk0l1ub0%2540group.calendar.google.com&ctz=Europe/Madrid][qui]].  Se dovessi  aver bisogno  di
-  spostare o rimandare qualche lezione, ve lo comunicherò per tempo.
+  Il  corso si  svolge  dal 24  settembre 2018  al  21 dicembre  2019,
+  secondo un  calendario settimanale  ancora da  definire e  che verrà
+  pubblicato  [[https://calendar.google.com/calendar/embed?src=ul77ti1tiirukf44podk0l1ub0%2540group.calendar.google.com&ctz=Europe/Madrid][qui]]. Se  dovessi aver  bisogno di  spostare o  rimandare
+  qualche lezione, ve lo comunicherò per tempo.
 
-
-
-* Lezioni regolari (Edificio CU035, aula 15).
+* COMMENT Lezioni regolari (Edificio CU035, aula 15).
 
 #+begin_export html
 <a href="https://www.google.it/maps/place/41%C2%B054'03.9%22N+12%C2%B030'48.2%22E/@41.9010922,12.5127169,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d41.9010907!4d12.5133782">
@@ -108,7 +94,7 @@
 #+end_export
 
 
-* Laboratorio (Via Tiburtina 205, aula 15)
+* COMMENT Laboratorio (Via Tiburtina 205, aula 15)
 
 #+begin_export html
 <a href="https://www.google.it/maps/place/Laboratori+di+Informatica+%E2%80%9CPaolo+Ercoli%E2%80%9D+-+Sapienza+Universit%C3%A0+di+Roma/@41.899657,12.5154458,17z/data=!4m13!1m7!3m6!1s0x132f619c98f5f547:0xfc8c7c61ff5bcdf1!2sVia+Tiburtina,+205,+00185+Roma+RM!3b1!8m2!3d41.8997786!4d12.5169319!3m4!1s0x132f619c98f5f547:0x208992da9a66bf3!8m2!3d41.8998233!4d12.5167901">
