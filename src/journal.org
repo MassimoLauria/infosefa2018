@@ -1,4 +1,4 @@
-#+TITLE: Informatica @ SEFA 2017/2018 - Diario delle lezioni
+#+TITLE: Informatica @ SEFA 2018/2019 - Diario delle lezioni
 
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
@@ -12,4 +12,5 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   Questionario: [[https://bit.ly/INFO2018-01][bit.ly/INFO2018-01]]
   
   Slide: ([[file:docs/lecture01-slides.pdf][schermo]]|[[file:docs/lecture01-print.pdf][stampa]])
-
+  
+  Tutorial: ([[file:docs/lecture01b-slides.pdf][schermo]]|[[file:docs/lecture01b-print.pdf][stampa]])
