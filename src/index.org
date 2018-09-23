@@ -49,9 +49,8 @@
   Gli studenti dovranno  imparare a ragionare in maniera  logica e non
   ambigua,  in  maniera  tale  da  risolvere  problemi  computazionali
   scrivendo dei  programmi in linguaggio [[https://www.python.org/][Python]].  Gli studenti inoltre
-  dovranno  imparare  ad  organizzare  ed  utilizzare  /basi  di  dati
-  relazionali/,    interfacciandosi    con    esse    attraverso    il
-  linguaggio SQL.
+  dovranno  imparare   ad  utilizzare  /basi  di   dati  relazionali/,
+  interfacciandosi con esse attraverso il linguaggio SQL.
 
 * Testi e risorse consigliate
   
@@ -69,11 +68,10 @@
 * Calendario, Orari e Aule
 
   Il  corso si  svolge  dal 24  settembre 2018  al  21 dicembre  2019,
-  secondo un  calendario settimanale  ancora da  definire e  che verrà
-  pubblicato  [[https://calendar.google.com/calendar/embed?src=ul77ti1tiirukf44podk0l1ub0%2540group.calendar.google.com&ctz=Europe/Madrid][qui]]. Se  dovessi aver  bisogno di  spostare o  rimandare
-  qualche lezione, ve lo comunicherò per tempo.
+  secondo un  calendario settimanale [[https://calendar.google.com/calendar/embed?src=ul77ti1tiirukf44podk0l1ub0%2540group.calendar.google.com&ctz=Europe/Madrid][qui]].  Se dovessi aver  bisogno di
+  spostare o rimandare qualche lezione, ve lo comunicherò per tempo.
 
-* COMMENT Lezioni regolari (Edificio CU035, aula 15).
+* Lezioni regolari (Edificio CU035, aula 15).
 
 #+begin_export html
 <a href="https://www.google.it/maps/place/41%C2%B054'03.9%22N+12%C2%B030'48.2%22E/@41.9010922,12.5127169,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d41.9010907!4d12.5133782">
@@ -94,7 +92,7 @@
 #+end_export
 
 
-* COMMENT Laboratorio (Via Tiburtina 205, aula 15)
+* Laboratorio (Via Tiburtina 205, aula 15)
 
 #+begin_export html
 <a href="https://www.google.it/maps/place/Laboratori+di+Informatica+%E2%80%9CPaolo+Ercoli%E2%80%9D+-+Sapienza+Universit%C3%A0+di+Roma/@41.899657,12.5154458,17z/data=!4m13!1m7!3m6!1s0x132f619c98f5f547:0xfc8c7c61ff5bcdf1!2sVia+Tiburtina,+205,+00185+Roma+RM!3b1!8m2!3d41.8997786!4d12.5169319!3m4!1s0x132f619c98f5f547:0x208992da9a66bf3!8m2!3d41.8998233!4d12.5167901">

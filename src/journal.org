@@ -2,3 +2,14 @@
 
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
+
+* <2018-09-24 Mon> Lezione 1 - Introduzione
+
+  Abbiamo introdotto il corso,  fornendo le informazioni logistiche di
+  base.   Poi    abbiamo   visto   alcuni   elementi    della   storia
+  dell'informatica e di come sia nata l'architettura dei calcolatori.
+   
+  Questionario: [[https://bit.ly/INFO2018-01][bit.ly/INFO2018-01]]
+  
+  Slide: ([[file:docs/lecture01-slides.pdf][schermo]]|[[file:docs/lecture01-print.pdf][stampa]])
+
