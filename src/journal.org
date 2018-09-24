@@ -6,9 +6,11 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 * <2018-09-26 Wed> Lezione 2 - Dati e programmi
 
   Abbiamo accennato  ad alcuni elementi della  storia dei calcolatori,
-  da  Babbage a  Turing passando  per von  Neumann. Dopodiché  abbiamo
-  discusso  di  come  i  dati vengano  rappresentati  (numeri,  testi,
-  immagini, segnali).
+  da Babbage a  Turing passando per von Neumann.  Dopodiché la lezione
+  si  è concentrata  prima  sulla  codifica di  dati,  ovvero di  come
+  vengano codificati numeri  interi in binario e  esadecimale, e testi
+  in  ASCII, ASCII  esteso, e  UTF-8.  Sono stati  fatti anche  esempi
+  riguardanti la codifica di immagini e segnali.
    
   Questionario: [[https://bit.ly/INFO2018-02a][bit.ly/INFO2018-02a]]
   
