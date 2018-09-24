@@ -3,11 +3,23 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-09-24 Mon> Lezione 2 - Dati e programmi
+
+  Abbiamo accennato  ad alcuni elementi della  storia dei calcolatori,
+  da  Babbage a  Turing passando  per von  Neumann. Dopodiché  abbiamo
+  discusso  di  come  i  dati vengano  rappresentati  (numeri,  testi,
+  immagini, segnali).
+   
+  Questionario: [[https://bit.ly/INFO2018-02a][bit.ly/INFO2018-02a]]
+  
+  Slide: ([[file:docs/lecture02-slides.pdf][schermo]]|[[file:docs/lecture02-print.pdf][stampa]])
+ 
 * <2018-09-24 Mon> Lezione 1 - Introduzione
 
   Abbiamo introdotto il corso,  fornendo le informazioni logistiche di
-  base.   Poi    abbiamo   visto   alcuni   elementi    della   storia
-  dell'informatica e di come sia nata l'architettura dei calcolatori.
+  base. Poi abbiamo visto come  effettuare i primi passi nell'ambiente
+  linux  del  laboratorio: come  trovare  i  programmi necessari  allo
+  svolgimento delle esercitazioni e come utilizzare il terminale.
    
   Questionario: [[https://bit.ly/INFO2018-01][bit.ly/INFO2018-01]]
   
