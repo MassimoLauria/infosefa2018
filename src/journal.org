@@ -3,6 +3,23 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-09-28 Fri> Lezione 3 - Programmi
+
+  Abbiamo descritto a  grandi linee come opera una CPU  nel modello di
+  von  Neumann.  Abbiamo  quindi   visto  come  sia  importante  avere
+  linguaggi  di  alto  livello.  Questi  permattono  "astrazioni"  più
+  potenti.   L'astrazione  è   un   concetto   che  abbiamo   definito
+  contestualmente.  Abbiamo  descritto  la  differenza  tra  linguaggi
+  compilati  e   interpretati,  così   come  tra  linguaggi   di  alto
+  e basso livello. Abbiamo introdotto brevemente Python e SQL, e detto
+  cosa sono variabili e funzioni in contesto di Python.
+   
+  Questionario: [[https://bit.ly/INFO2018-02c][bit.ly/INFO2018-02c]]
+  
+  Slide: ([[file:docs/lecture03-slides.pdf][schermo]]|[[file:docs/lecture03-print.pdf][stampa]])
+ 
+
+
 * <2018-09-26 Wed> Lezione 2 - Dati e programmi
 
   Abbiamo accennato  ad alcuni elementi della  storia dei calcolatori,

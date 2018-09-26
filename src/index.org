@@ -39,7 +39,13 @@
 
 * Avvisi
 
-  Nessun avviso.
+  <2018-09-26  Wed> Da  lunedì  prossimo la  logistica  delle aule  di
+  laboratorio  sarà  improvvisata a  causa  dei  numeri imprevisti  di
+  iscritti al corso. Una possibilità è dividervi tra aula XV e XVI del
+  laboratorio.  Sostanzialmente gestirò  entrambe  le  aule, e  mentre
+  alcuni  studenti  si  esercitano  in  un'aula io  andrò  a  fare  il
+  tutorial all'altra.
+
   
 * Descrizione del corso
 
