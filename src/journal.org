@@ -13,12 +13,11 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   compilati  e   interpretati,  così   come  tra  linguaggi   di  alto
   e basso livello. Abbiamo introdotto brevemente Python e SQL, e detto
   cosa sono variabili e funzioni in contesto di Python.
-   
-  Questionario: [[https://bit.ly/INFO2018-02c][bit.ly/INFO2018-02c]]
+  
+  Questionari:
+  - Rappresentazione dei dati: [[https://bit.ly/INFO2018-02d][bit.ly/INFO2018-02d]]
   
   Slide: ([[file:docs/lecture03-slides.pdf][schermo]]|[[file:docs/lecture03-print.pdf][stampa]])
- 
-
 
 * <2018-09-26 Wed> Lezione 2 - Dati e programmi
 
@@ -29,7 +28,9 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   in  ASCII, ASCII  esteso, e  UTF-8.  Sono stati  fatti anche  esempi
   riguardanti la codifica di immagini e segnali.
    
-  Questionario: [[https://bit.ly/INFO2018-02a][bit.ly/INFO2018-02a]]
+  Questionari:
+  - Feedback logistico [[https://bit.ly/INFO2018-02a][bit.ly/INFO2018-02a]]
+  - Storia e architettura dei calcolatori: [[https://bit.ly/INFO2018-02c][bit.ly/INFO2018-02c]]
   
   Slide: ([[file:docs/lecture02-slides.pdf][schermo]]|[[file:docs/lecture02-print.pdf][stampa]])
  
