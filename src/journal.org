@@ -16,6 +16,7 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   
   Questionari:
   - Rappresentazione dei dati: [[https://bit.ly/INFO2018-02d][bit.ly/INFO2018-02d]]
+  - Programmazione e Astrazione http://bit.ly/INFO2018-03a
   
   Slide: ([[file:docs/lecture03-slides.pdf][schermo]]|[[file:docs/lecture03-print.pdf][stampa]])
 
