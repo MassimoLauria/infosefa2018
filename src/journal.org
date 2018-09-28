@@ -3,6 +3,17 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-01 Mon> Lezione 4 - Tutorial del terminale
+
+  Abbiamo visto come muoverci tra i file del computer usando i comandi
+  del  terminale. Contestualmente  abbiamo  cercato di  far girare  il
+  nostro   primo  esempio   di   codice  python   dalle  slide   della
+  lezione scorsa.
+
+  Tutorial (stesso file della Lezione 1): ([[file:docs/lecture01b-slides.pdf][schermo]]|[[file:docs/lecture01b-print.pdf][stampa]])
+  
+  Questionario: TBA
+
 * <2018-09-28 Fri> Lezione 3 - Programmi
 
   Abbiamo descritto a  grandi linee come opera una CPU  nel modello di
