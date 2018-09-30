@@ -10,9 +10,9 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   nostro   primo  esempio   di   codice  python   dalle  slide   della
   lezione scorsa.
 
-  Tutorial (stesso file della Lezione 1): ([[file:docs/lecture01b-slides.pdf][schermo]]|[[file:docs/lecture01b-print.pdf][stampa]])
+  Tutorial (file rivisitato della Lezione 1): ([[file:docs/lecture01b-slides.pdf][schermo]]|[[file:docs/lecture01b-print.pdf][stampa]])
   
-  Questionario: TBA
+  Questionario: [[http://bit.ly/INFO2018-04a][bit.ly/INFO2018-04a]]
 
 * <2018-09-28 Fri> Lezione 3 - Programmi
 
