@@ -3,6 +3,16 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-03 mer> Lezione 5 - Elementi del linguaggio python
+
+  Vediamo come  usare Python  come una  calcolatrice e  per manipolare
+  i  tipi numerici  più semplici.  Poi vediamo  l'uso delle  variabili
+  e l'uso delle stringhe.
+
+  Slide: ([[file:docs/lecture05-slides.pdf][schermo]]|[[file:docs/lecture05-print.pdf][stampa]])
+  
+  Letture: Cap 3. Libro di python
+
 * <2018-10-01 Mon> Lezione 4 - Tutorial del terminale
 
   Abbiamo visto come muoverci tra i file del computer usando i comandi
@@ -45,6 +55,8 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   - Storia e architettura dei calcolatori: [[https://bit.ly/INFO2018-02c][bit.ly/INFO2018-02c]]
   
   Slide: ([[file:docs/lecture02-slides.pdf][schermo]]|[[file:docs/lecture02-print.pdf][stampa]])
+
+  Letture: Cap 1. Libro di python
  
 * <2018-09-24 Mon> Lezione 1 - Introduzione
 
@@ -58,3 +70,5 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   Slide: ([[file:docs/lecture01-slides.pdf][schermo]]|[[file:docs/lecture01-print.pdf][stampa]])
   
   Tutorial: ([[file:docs/lecture01b-slides.pdf][schermo]]|[[file:docs/lecture01b-print.pdf][stampa]])
+
+  Letture: Cap 1. Libro di python
