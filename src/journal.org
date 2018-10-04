@@ -3,6 +3,21 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-05 ven> Lezione 6 - Esecuzione condizionale ed espressioni logiche
+
+  Abbiamo introdotto i costrutti =if=, =elif=, =else= per l'esecuzione
+  condizionale di codice. Contestualmente abbiamo visto le espressioni
+  e  gli   operatori  che   operano  of  producono   valori  booleani.
+  Per  completare   la  trattazione   abbiamo  discusso   elementi  di
+  logica booleana.
+
+  Slide: ([[file:docs/lecture06-slides.pdf][schermo]]|[[file:docs/lecture06-print.pdf][stampa]])
+
+  Questionario: [[http://bit.ly/INFO2018-06a][bit.ly/INFO2018-06a]]
+  
+  Letture: Cap 5. Libro di python
+
+
 * <2018-10-03 mer> Lezione 5 - Elementi del linguaggio python
 
   Vediamo come  usare Python  come una  calcolatrice e  per manipolare
