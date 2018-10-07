@@ -3,6 +3,22 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-08 Mon> Laboratorio 1 - Esercizi e test
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab01.py=  in maniera  tale che  il lo  script =test_lab01.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab01.py=
+  - scaricare il file =test_lab01.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab01.py
+
+  Slide: ([[file:docs/lab01-slides.pdf][schermo]]|[[file:docs/lab01-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab01.py][test_lab01.py]]
+
 * <2018-10-05 ven> Lezione 6 - Esecuzione condizionale ed espressioni logiche
 
   Abbiamo introdotto i costrutti =if=, =elif=, =else= per l'esecuzione
