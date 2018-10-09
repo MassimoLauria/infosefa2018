@@ -3,6 +3,21 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-10 Wed> Lezione 7 - Strutturare il codice
+
+  Abbiamo  discusso  alcuni elementi  del  linguaggio  python come  il
+  valore  =None=,  la struttura  del  codice  all'interno di  un  file
+  (indentazione) e quella  in file multipli (i  moduli). Abbiamo visto
+  come le precedenze degli operatori vadano a infuenzare e definire la
+  valutazione di espressioni.
+
+  Slide: ([[file:docs/lecture07-slides.pdf][schermo]]|[[file:docs/lecture07-print.pdf][stampa]])
+
+  Questionario: [[http://bit.ly/INFO2018-07a][bit.ly/INFO2018-07a]]
+  
+  Letture: Cap 4 e Par 5.5. Libro di python
+
+
 * <2018-10-08 Mon> Laboratorio 1 - Esercizi e test
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
