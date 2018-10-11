@@ -3,6 +3,17 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-12 Fri> Lezione 8 - Gestione degli Errori e Sequenze di dati
+
+  Abbiamo parlate  della gestione  degli errori  in Python,  e abbiamo
+  introdotto  le sequenze.  In  particolare abbiamo  descritto i  tipi
+  lista e tupla, ed alcune delle loro caratteristiche principali.
+
+  Slide: ([[file:docs/lecture08-slides.pdf][schermo]]|[[file:docs/lecture08-print.pdf][stampa]])
+
+  Letture: Cap 6. Libro di python
+
+
 * <2018-10-10 Wed> Lezione 7 - Strutturare il codice
 
   Abbiamo  discusso  alcuni elementi  del  linguaggio  python come  il
