@@ -3,6 +3,22 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-08 Mon> Laboratorio 2 - Esercizi in laboratorio
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab02.py=  in maniera  tale che  il lo  script =test_lab02.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab02.py=
+  - scaricare il file =test_lab02.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab02.py
+
+  Slide: ([[file:docs/lab02-slides.pdf][schermo]]|[[file:docs/lab02-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab02.py][test_lab02.py]]
+
 * <2018-10-12 Fri> Lezione 8 - Gestione degli Errori e Sequenze di dati
 
   Abbiamo parlate  della gestione  degli errori  in Python,  e abbiamo
