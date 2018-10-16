@@ -3,6 +3,19 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+
+* <2018-10-17 Wed> Lezione 9 - Iterazioni su sequenze
+
+  Abbiamo  visto  una serie  di  ulteriori  operazioni per  manipolare
+  le sequenze.  Abbiamo introdotto  le iterazioni  su sequenze,  e più
+  esplicitamente il ciclo =for=.
+
+  Slide: ([[file:docs/lecture09-slides.pdf][schermo]]|[[file:docs/lecture09-print.pdf][stampa]])
+
+  Questionario: [[http://bit.ly/INFO2018-09a][bit.ly/INFO2018-09a]]
+
+  Letture: Cap 7.1, 7.3, 8.4, 8.5. Libro di Python. 
+
 * <2018-10-08 Mon> Laboratorio 2 - Esercizi in laboratorio
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
@@ -21,7 +34,7 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
 * <2018-10-12 Fri> Lezione 8 - Gestione degli Errori e Sequenze di dati
 
-  Abbiamo parlate  della gestione  degli errori  in Python,  e abbiamo
+  Abbiamo parlato  della gestione  degli errori  in Python,  e abbiamo
   introdotto  le sequenze.  In  particolare abbiamo  descritto i  tipi
   lista e tupla, ed alcune delle loro caratteristiche principali.
 
