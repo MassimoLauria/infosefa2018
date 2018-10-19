@@ -4,6 +4,16 @@ Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
 
+* <2018-10-19 Fri> Lezione 10 - Cicli =for= su intervalli e cicli =while=
+
+  Abbiamo  continuato a  discutere  le iterazioni  su  sequenze, e  in
+  particolare  i cicli  =for=  su intervalli  di  interi. Poi  abbiamo
+  introdotto i cicli =while=.
+
+  Slide: ([[file:docs/lecture10-slides.pdf][schermo]]|[[file:docs/lecture10-print.pdf][stampa]])
+
+  Letture: Cap 6 e 7. Libro di Python. 
+
 * <2018-10-17 Wed> Lezione 9 - Iterazioni su sequenze
 
   Abbiamo  visto  una serie  di  ulteriori  operazioni per  manipolare
