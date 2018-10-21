@@ -3,6 +3,22 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-22 Mon> Laboratorio 3 - Esercizitazione
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab03.py=  in maniera  tale che  il lo  script =test_lab03.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab03.py=
+  - scaricare il file =test_lab03.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab03.py
+
+  Slide: ([[file:docs/lab03-slides.pdf][schermo]]|[[file:docs/lab03-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab03.py][test_lab03.py]]
+
 
 * <2018-10-19 Fri> Lezione 10 - Cicli =for= su intervalli e cicli =while=
 
@@ -26,7 +42,7 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
   Letture: Cap 7.1, 7.3, 8.4, 8.5. Libro di Python. 
 
-* <2018-10-08 Mon> Laboratorio 2 - Esercizi in laboratorio
+* <2018-10-15 Mon> Laboratorio 2 - Esercizi in laboratorio
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
   file =lab02.py=  in maniera  tale che  il lo  script =test_lab02.py=
