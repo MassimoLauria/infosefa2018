@@ -3,7 +3,19 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
-* <2018-10-22 Mon> Laboratorio 3 - Esercizitazione
+
+* <2018-10-24 mer> Soluzione degli esercizi del laboratorio 3
+
+  La  lezione   consisterà  nella   risoluzione  degli   esercizi  del
+  laboratorio 3. Poiché il laboratorio deve essere fatto con la classe
+  divisa in due, usiamo una delle lezioni di teoria (a classe riunita)
+  per mostrare la soluzione.
+
+  Slide: ([[file:docs/lecture11-slides.pdf][schermo]]|[[file:docs/lecture11-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab03.py][test_lab03.py]]
+
+* <2018-10-22 Mon> Laboratorio 3 - Esercitazione
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
   file =lab03.py=  in maniera  tale che  il lo  script =test_lab03.py=
