@@ -3,6 +3,22 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-29 Mon> Laboratorio 4 - Esercitazione
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab04.py=  in maniera  tale che  il lo  script =test_lab04.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab04.py=
+  - scaricare il file =test_lab04.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab04.py
+
+  Slide: ([[file:docs/lab04-slides.pdf][schermo]]|[[file:docs/lab04-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab04.py][test_lab04.py]]
+
 * <2018-10-26 ven> Lezione 12 - Efficienza computazionale
 
   Introduciamo un  paio di esempi  di ricerca binaria,  per illustrare
