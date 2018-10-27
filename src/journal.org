@@ -3,6 +3,14 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-10-31 Wed> Lezione 13 - Ordinamenti e crescita della complessità
+
+  Introduciamo il concetto  di complessità di un  algoritmo. Per farlo
+  discutiamo due semplici algoritmi di ordinamento, e poi introduciamo
+  la notazione asintotica.
+
+  ([[file:docs/lecture13.pdf][appunti]])
+
 * <2018-10-29 Mon> Laboratorio 4 - Esercitazione
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
