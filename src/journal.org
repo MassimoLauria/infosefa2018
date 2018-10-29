@@ -11,7 +11,7 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
   ([[file:docs/lecture13.pdf][appunti]])
 
-* <2018-10-29 Mon> Laboratorio 4 - Esercitazione
+* COMMENT <2018-10-29 Mon> Laboratorio 4 - Esercitazione
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
   file =lab04.py=  in maniera  tale che  il lo  script =test_lab04.py=
