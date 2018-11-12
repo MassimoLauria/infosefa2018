@@ -11,6 +11,8 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
   ([[file:docs/lecture15.pdf][appunti]])
 
+  Questionario: [[http://bit.ly/INFO2018-15][bit.ly/INFO2018-15]]
+
 * <2018-11-12 lun> Laboratorio 4 - Esercitazione
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
