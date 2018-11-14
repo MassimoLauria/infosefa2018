@@ -3,6 +3,16 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+* <2018-11-16 ven> Lezione 16 - Mergesort (cont.) e equazioni di ricorrenza
+
+  Terminiamo  la spiegazione  di  Mergesort, ed  in particolare  della
+  funzione  che  fonde  due   sequenze  ordinate.  Per  analizzare  il
+  Mergesort  facciamo ricorso  alle equazioni  di ricorrenza.  Dopo il
+  semplice caso del Mergesort, le trattiamo in modo più generale.
+
+  ([[file:docs/lecture16.pdf][appunti]])
+
+
 * <2018-11-14 mer> Lezione 15 - Struttura a pile e Mergesort
 
   Oggi vediamo  il Mergesort,  un algoritmo  di ordinamento  per ``per
