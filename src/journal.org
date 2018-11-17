@@ -3,6 +3,22 @@
 Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
 lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
 
+
+Qui potete trovare  tutte le informazioni riguardo  il contenuto delle
+lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
+Il codice di alcune funzioni viste durante il corso si trova nel file:
+
+- [[file:docs/infosefa.py][infosefa.py]] 
+
+che  verrà  aggiornato durante  il  corso.
+
+* <2018-11-19 Mon> Laboratorio 5 - Grafici di tempi di esecuzione
+
+  Oggi proviamo a fare dei grafici che indichino i tempi di esecuzione
+  di algoritmi. Quale sarà il più veloce?
+
+  Slide: ([[file:docs/lab05-slides.pdf][schermo]]|[[file:docs/lab05-print.pdf][stampa]])
+
 * <2018-11-16 ven> Lezione 16 - Mergesort (cont.) e equazioni di ricorrenza
 
   Terminiamo  la spiegazione  di  Mergesort, ed  in particolare  della
@@ -11,7 +27,6 @@ lezioni,  ed il  relativo  materiale. Tenete  d'occhio questa  pagina.
   semplice caso del Mergesort, le trattiamo in modo più generale.
 
   ([[file:docs/lecture16.pdf][appunti]])
-
 
 * <2018-11-14 mer> Lezione 15 - Struttura a pile e Mergesort
 
