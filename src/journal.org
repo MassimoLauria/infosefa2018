@@ -12,6 +12,15 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che  verrà  aggiornato durante  il  corso.
 
+
+* <2018-11-21 ven> Lezione 17 - Equazioni di ricorrenza / Ordinamenti lineari
+
+  Discutiamo più  in generale come risolvere  equazioni di ricorrenza,
+  e accenniamo  al Master  Theorem. Poi  continuiamo con  algoritmi di
+  ordinamento che funzionano in tempo lineare.
+
+  ([[file:docs/lecture17.pdf][appunti]])
+
 * <2018-11-19 Mon> Laboratorio 5 - Grafici di tempi di esecuzione
 
   Oggi proviamo a fare dei grafici che indichino i tempi di esecuzione
@@ -23,8 +32,7 @@ che  verrà  aggiornato durante  il  corso.
 
   Terminiamo  la spiegazione  di  Mergesort, ed  in particolare  della
   funzione  che  fonde  due   sequenze  ordinate.  Per  analizzare  il
-  Mergesort  facciamo ricorso  alle equazioni  di ricorrenza.  Dopo il
-  semplice caso del Mergesort, le trattiamo in modo più generale.
+  Mergesort  facciamo ricorso  alle equazioni  di ricorrenza.
 
   ([[file:docs/lecture16.pdf][appunti]])
 
