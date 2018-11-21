@@ -12,12 +12,18 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che  verrà  aggiornato durante  il  corso.
 
+* <2018-11-23 ven> Lezione 18 - Ordinamenti a cascata e Radix sort
 
-* <2018-11-21 ven> Lezione 17 - Equazioni di ricorrenza / Ordinamenti lineari
+  Continuiamo  con algoritmi  di ordinamento  che funzionano  in tempo
+  lineare. Introduciamo il radix sort, come sequenza di counting sort.
+
+  ([[file:docs/lecture18.pdf][appunti]])
+
+* <2018-11-21 mer> Lezione 17 - Equazioni di ricorrenza / Counting sort
 
   Discutiamo più  in generale come risolvere  equazioni di ricorrenza,
-  e accenniamo  al Master  Theorem. Poi  continuiamo con  algoritmi di
-  ordinamento che funzionano in tempo lineare.
+  e accenniamo al  Master Theorem. Poi discutiamo il  couting sort, un
+  algoritmo di ordinamento che funziona in tempo lineare.
 
   ([[file:docs/lecture17.pdf][appunti]])
 
