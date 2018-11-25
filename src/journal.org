@@ -12,6 +12,27 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che  verrà  aggiornato durante  il  corso.
 
+* <2018-11-26 Mon> Laboratorio 6 - Dizionari e Tabelle di Dati
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab06.py=  in maniera  tale che  il lo  script =test_lab06.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab06.py=
+  - scaricare il file =test_lab06.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab06.py
+
+  Slide: ([[file:docs/lab06-slides.pdf][schermo]]|[[file:docs/lab06-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab06.py][test_lab06.py]]
+
+  Letture: 
+  - Cap 9.1 del libro di python.
+  - *nota  bene* la  nostra codifica  per  le tabelle  è *diversa*  da
+    quella del Cap 9.3.
+
 * <2018-11-23 ven> Lezione 18 - Ordinamenti a cascata e Radix sort
 
   Continuiamo  con algoritmi  di ordinamento  che funzionano  in tempo
