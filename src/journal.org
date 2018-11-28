@@ -13,7 +13,8 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 che  verrà  aggiornato durante  il  corso.
 
 I documenti  di testo utilizzati per  gli esempi a lezione  sono copie
-liberamente utilizzabili di libri archiviati dal progetto [[https://www.gutenberg.org/][Gutemberg]].
+liberamente utilizzabili  di libri archiviati dal  progetto [[https://www.gutenberg.org/][Gutemberg]].
+I file sono codificati in formato ='utf-8-sig'=.
 
   - [[file:docs/holmes.txt][The Adventures of Sherlock Holmes - Arthur Conan Doyle]] 
   - [[file:docs/alice.txt][Alice in Wonderland - Lewis Carrol]] 
@@ -29,7 +30,7 @@ liberamente utilizzabili di libri archiviati dal progetto [[https://www.gutenber
   forniscono il  concetto di  *file* vedremo  come leggere  e scrivere
   dati su file.
 
-  Capitolo 10 del libro di testo.
+  Letture: paragrafi 10.1, 10.2, 10.3, 10.4, 10.5.
 
   Slide: ([[file:docs/lecture19-slides.pdf][schermo]]|[[file:docs/lecture19-print.pdf][stampa]])
 
