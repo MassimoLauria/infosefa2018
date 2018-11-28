@@ -23,6 +23,18 @@ I file sono codificati in formato ='utf-8-sig'=.
   - [[file:docs/prince.txt][Il Principe (Eng) - Nicolo Macchiavelli]] 
   - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
 
+
+* <2018-11-30 Ven> Lezione 20 - Ricerca in documenti di testo
+
+  Vediamo  come  utilizzare  le  operazioni su  stringhe  e  file  per
+  calcolare statistiche  su file di testo.  In particolare costruiremo
+  una  funzione che  dati  alcuni  file, li  classifica  in base  alla
+  frequenza con cui delle chiavi di ricerca occorrono al loro interno.
+
+  Letture: Capitolo 11 del libro di testo. 
+
+  Slide: ([[file:docs/lecture20-slides.pdf][schermo]]|[[file:docs/lecture20-print.pdf][stampa]])
+
 * <2018-11-28 Wed> Lezione 19 - Uso di file e dati
 
   Le informazioni su  cui si lavora possono essere  salvati su supporti
