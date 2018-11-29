@@ -24,6 +24,22 @@ I file sono codificati in formato ='utf-8-sig'=.
   - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
 
 
+* COMMENT <2018-12-03 Mon> Laboratorio 7 - Elaborazione di stringhe
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab07.py=  in maniera  tale che  il lo  script =test_lab07.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab07.py=
+  - scaricare il file =test_lab07.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab07.py
+
+  Slide: ([[file:docs/lab07-slides.pdf][schermo]]|[[file:docs/lab07-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab07.py][test_lab07.py]]
+
 * <2018-11-30 Ven> Lezione 20 - Ricerca in documenti di testo
 
   Vediamo  come  utilizzare  le  operazioni su  stringhe  e  file  per
