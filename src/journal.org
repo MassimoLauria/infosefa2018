@@ -24,7 +24,7 @@ I file sono codificati in formato ='utf-8-sig'=.
   - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
 
 
-* COMMENT <2018-12-03 Mon> Laboratorio 7 - Elaborazione di stringhe
+* <2018-12-03 Mon> Laboratorio 7 - Elaborazione di stringhe
 
   Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
   file =lab07.py=  in maniera  tale che  il lo  script =test_lab07.py=
