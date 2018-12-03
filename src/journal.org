@@ -22,7 +22,19 @@ I file sono codificati in formato ='utf-8-sig'=.
   - [[file:docs/mobydick.txt][Moby Dick - Herman Melville]] 
   - [[file:docs/prince.txt][Il Principe (Eng) - Nicolo Macchiavelli]] 
   - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
+  
+* <2018-12-05 Wed> Lezione 21 - Introduzione alle basi di dati
 
+  Introduciamo il concetto  di sistema informativo e di  base di dati.
+  Facciamo  una   breve  panoramica  sui   metodi  e  sulle   fasi  di
+  progettazione  di  una  base  di  dati,  e  sulle  problematiche  da
+  affrontare. Introduciamo poi il  modello relazionale. e parliamo dei
+  criteri di integrità e di  qualità di uno schema relazionale, basati
+  sulle    dipendenze    funzionali    e    sulle    forme    normali.
+  Discutiamo brevemente  le operazioni di manipolazioni  delle tabelle
+  e di incrocio dei dati.
+
+  Capitoli 1, 2 e 3 del Manuale SQL.
 
 * <2018-12-03 Mon> Laboratorio 7 - Elaborazione di stringhe
 
