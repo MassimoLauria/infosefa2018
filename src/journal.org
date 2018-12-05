@@ -12,7 +12,7 @@ Il codice di alcune funzioni viste durante il corso si trova nel file:
 
 che  verrà  aggiornato durante  il  corso.
 
-I documenti  di testo utilizzati per  gli esempi a lezione  sono copie
+*Documenti di testo*: testi utilizzati per  gli esempi a lezione  sono copie
 liberamente utilizzabili  di libri archiviati dal  progetto [[https://www.gutenberg.org/][Gutemberg]].
 I file sono codificati in formato ='utf-8-sig'=.
 
@@ -22,6 +22,32 @@ I file sono codificati in formato ='utf-8-sig'=.
   - [[file:docs/mobydick.txt][Moby Dick - Herman Melville]] 
   - [[file:docs/prince.txt][Il Principe (Eng) - Nicolo Macchiavelli]] 
   - [[file:docs/treasure.txt][Treasure Island - Robert Louis Stevenson]] 
+
+*Basi di dati*: 
+
+- Registro automobilistico: una base di  dati popolata che viene usata
+  nel manuale SQL del corso. 
+
+  + ([[file:data/registro_automobilistico_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
+  + ([[file:data/registro_automobilistico.sql][Comandi SQL]]) importabile in qualunque gestore di database.
+
+- Chinook: una base  di dati popolata con informazioni  relative ad un
+  negozio musicale, e rilasciata da [[https://github.com/lerocha/chinook-database][Luis Rocha]].
+
+  + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
+  + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
+
+
+* <2017-12-06 Mer> Lezione 22 - Query SQL su singole tabelle
+
+  Prima spieghiamo come  è strutturata una tabella  e come specificare
+  vincoli  su di  essa.  Poi  vediamo come  effettuare  query SQL  che
+  riguardino una  singola tabella,  in particolare le  espressioni che
+  possono essere utilizzate nella clausola where e l'uso di order by.
+
+  Letture: Sezioni 4.1, 4.2, 4.3, 4.8 del Manuale di SQL.
+
+  Slide: ([[file:docs/lecture22-slides.pdf][schermo]]|[[file:docs/lecture22-print.pdf][stampa]])
   
 * <2018-12-05 Wed> Lezione 21 - Introduzione alle basi di dati
 
@@ -34,7 +60,7 @@ I file sono codificati in formato ='utf-8-sig'=.
   Discutiamo brevemente  le operazioni di manipolazioni  delle tabelle
   e di incrocio dei dati.
 
-  Capitoli 1, 2 e 3 del Manuale SQL.
+  Letture: Capitoli 1, 2 e 3 del Manuale SQL.
 
 * <2018-12-03 Mon> Laboratorio 7 - Elaborazione di stringhe
 
