@@ -38,7 +38,15 @@ I file sono codificati in formato ='utf-8-sig'=.
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
 
-* <2017-12-06 Mer> Lezione 22 - Query SQL su singole tabelle
+* <2018-12-10 lun> Laboratorio 8 - SQLite
+
+  Vediamo come usare il comando SQLite  per accedere alle basi di dati
+  di prova. In questo modo  potete cominciare ad esplorare questi dati
+  usando comandi SQL. 
+
+  Slide: ([[file:docs/lab08-slides.pdf][schermo]]|[[file:docs/lab08-print.pdf][stampa]])
+
+* <2018-12-07 ven> Lezione 22 - Query SQL su singole tabelle
 
   Prima spieghiamo come  è strutturata una tabella  e come specificare
   vincoli  su di  essa.  Poi  vediamo come  effettuare  query SQL  che
