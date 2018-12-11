@@ -37,6 +37,19 @@ I file sono codificati in formato ='utf-8-sig'=.
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
+
+* COMMENT <2018-12-14 Fri> Lezione 24 - SQL - Elementi più avanzati
+
+  In  questa lezione  vediamo come  eseguire query  SQL che  calcolano
+  funzioni  sulle  colonne  della   tabella:  i  cosiddetti  operatori
+  aggregati (o funzioni di gruppo).  Concludiamo poi le lezioni su SQL
+  con una  descrizione sommaria di  quelle caratteristiche di  SQL che
+  non faremo in tempo a vedere.
+
+  Letture: Sezioni 4.5, 4.6, 4.7 e Capitolo 7 del manuale SQL.
+
+  Slide: ([[file:docs/lecture24-slides.pdf][schermo]]|[[file:docs/lecture24-print.pdf][stampa]])
+
 * <2018-12-12 mer> Lezione 23 - Query SQL. Combinare più tabelle   
 
   Vediamo  come  costruire query  SQL  che  combinano  i dati  di  più
