@@ -38,7 +38,26 @@ I file sono codificati in formato ='utf-8-sig'=.
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
 
-* COMMENT <2018-12-14 Fri> Lezione 24 - SQL - Elementi più avanzati
+* COMMENT <2018-12-17 Mon> Laboratorio 9 - Integrare Python e SQL
+
+  Vediamo come  si possano  interrogare basi di  dati (in  questo caso
+  SQLite) utilizzando Python.
+
+  Dovrete scrivere  una serie  di funzioni in  python, e  salvarle sul
+  file =lab09.py=  in maniera  tale che  il lo  script =test_lab09.py=
+  esegua   con   successo. Più precisamente dovrete:
+
+  - salvare le vostre funzioni in un file =lab09.py=
+  - scaricare il file =test_lab09.py=
+  - eseguire, nella stessa cartella che li contiene
+  
+  : $ python3 test_lab09.py
+
+  Slide: ([[file:docs/lab09-slides.pdf][schermo]]|[[file:docs/lab09-print.pdf][stampa]])
+
+  File di test: [[file:docs/test_lab09.py][test_lab09.py]]
+
+* COMMENT <2018-12-14 Fri> Lezione 24 - SQL. Elementi più avanzati
 
   In  questa lezione  vediamo come  eseguire query  SQL che  calcolano
   funzioni  sulle  colonne  della   tabella:  i  cosiddetti  operatori
@@ -49,6 +68,15 @@ I file sono codificati in formato ='utf-8-sig'=.
   Letture: Sezioni 4.5, 4.6, 4.7 e Capitolo 7 del manuale SQL.
 
   Slide: ([[file:docs/lecture24-slides.pdf][schermo]]|[[file:docs/lecture24-print.pdf][stampa]])
+
+* COMMENT <2018-12-13 Thu> Lezione di recupero
+
+  La  lezione  si  svolge  per  recuperare le  ore  perse  durante  il
+  semestre.  Visto  che  la   lezione  è  stata  calendarizzata  fuori
+  dall'orario  canonico,  non  faremo   cose  nuove  ma  rivedremo  il
+  materiale delle precedenti lezioni e chiariremo dubbi.
+
+  Orario: 14:00–16:00, Aula 15 - CU 035
 
 * <2018-12-12 mer> Lezione 23 - Query SQL. Combinare più tabelle   
 
