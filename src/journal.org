@@ -69,12 +69,12 @@ I file sono codificati in formato ='utf-8-sig'=.
 
   Slide: ([[file:docs/lecture24-slides.pdf][schermo]]|[[file:docs/lecture24-print.pdf][stampa]])
 
-* COMMENT <2018-12-13 Thu> Lezione di recupero
+* <2018-12-13 Thu> Lezione di recupero
 
   La  lezione  si  svolge  per  recuperare le  ore  perse  durante  il
   semestre.  Visto  che  la   lezione  è  stata  calendarizzata  fuori
-  dall'orario  canonico,  non  faremo   cose  nuove  ma  rivedremo  il
-  materiale delle precedenti lezioni e chiariremo dubbi.
+  dall'orario canonico non faremo cose nuove ma rivedremo il materiale
+  delle precedenti lezioni e chiariremo eventuali dubbi.
 
   Orario: 14:00–16:00, Aula 15 - CU 035
 
