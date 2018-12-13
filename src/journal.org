@@ -57,7 +57,7 @@ I file sono codificati in formato ='utf-8-sig'=.
 
   File di test: [[file:docs/test_lab09.py][test_lab09.py]]
 
-* COMMENT <2018-12-14 Fri> Lezione 24 - SQL. Elementi più avanzati
+* <2018-12-14 Fri> Lezione 24 - SQL. Elementi più avanzati
 
   In  questa lezione  vediamo come  eseguire query  SQL che  calcolano
   funzioni  sulle  colonne  della   tabella:  i  cosiddetti  operatori
