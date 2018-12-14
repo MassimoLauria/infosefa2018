@@ -265,15 +265,20 @@ class TestLab03Ordered(unittest.TestCase):
 
 
     def test_mixed1(self):
-        msg="\nTEST FAIL> La lista [1,'ciao'] contiene element non confrontabili. Si dovrebbe sollevare un TypeError."
+        msg="\nTEST FAIL> La lista [1,'ciao'] contiene elementi non confrontabili. Si dovrebbe sollevare un TypeError."
         with self.assertRaises(TypeError,msg=msg):
             decrescente( [1,'ciao'] )
 
     def test_mixed2(self):
-        msg="\nTEST FAIL> La lista ['ciao', 1.2] contiene element non confrontabili. Si dovrebbe sollevare un TypeError."
+        msg="\nTEST FAIL> La lista ['ciao', 1.2] contiene elementi non confrontabili. Si dovrebbe sollevare un TypeError."
         with self.assertRaises(TypeError,msg=msg):
             decrescente( ( 'ciao', 1.2 ) )
             
+
+    def test_mixed3(self):
+        msg="\nTEST FAIL> La lista ['bau','ciao', 1.2] contiene elementi non confrontabili. Si dovrebbe sollevare un TypeError."
+        with self.assertRaises(TypeError,msg=msg):
+            decrescente( ( 'bau','ciao', 1.2 ) )
         
 
 if __name__ == '__main__':
