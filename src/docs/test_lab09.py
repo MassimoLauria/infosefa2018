@@ -38,12 +38,12 @@ for f_name in ex_functions:
 globals().update(f_objects)
 
 
+from pprint import pformat
 
-
-class TestLab11SQL(unittest.TestCase):
+class TestLab09SQL(unittest.TestCase):
 
     def test_plot(self):
-        test_fname='lab11test.png'
+        test_fname='lab09test.png'
         try:
             os.remove(test_fname)
         except FileNotFoundError:
@@ -52,11 +52,26 @@ class TestLab11SQL(unittest.TestCase):
         self.assertTrue( os.path.isfile(test_fname) )
 #        os.remove(test_fname)
     
-    def assertQueryEqual(self,table,column,expected):
-        result=simple_query(table,column)
+    def assertQueryEqual(self,tables,columns,expected):
+
+        result=simple_query(tables,columns)
         result=sorted(result)
         expected=sorted(expected)
-        self.assertSequenceEqual(expected,result)
+      
+        messaggio = '''
+TEST FAIL> La query costruita è
+
+select {1} from {0}
+
+           e produce
+{3}
+
+           quando invece dovrebbe produrre:
+
+{2}
+'''
+        messaggio = messaggio.format(tables,columns,pformat(expected),pformat(result))
+        self.assertSequenceEqual(expected,result,msg=messaggio)
 
     def test_combustibili(self):
         self.assertQueryEqual('Combustibili','Descrizione_Combustibile',

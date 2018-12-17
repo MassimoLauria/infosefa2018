@@ -44,10 +44,11 @@ I file sono codificati in formato ='utf-8-sig'=.
 
   Slide: ([[file:docs/lecture26-slides.pdf][schermo]]|[[file:docs/lecture26-print.pdf][stampa]])
 
-* COMMENT <2018-12-19 Wed> Lezione 25 - Ripasso
+* <2018-12-19 Wed> Lezione 25 - Ripasso
 
   Facciamo un  ripasso generale,  rivedendo i contenuti  delle lezioni
-  e dei laboratori precedenti. 
+  e  dei laboratori  precedenti. Saranno  gli studenti  a decidere  su
+  quali argomenti ritornare, compatibilmente con le due ore a disposizione.
   
 * <2018-12-17 Mon> Laboratorio 9 - Integrare Python e SQL
 
