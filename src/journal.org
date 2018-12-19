@@ -39,6 +39,9 @@ I file sono codificati in formato ='utf-8-sig'=.
 
 * <2018-12-21 Fri> Lezione 26 - Conclusione 
 
+  *Attenzione*: la lezione è stata anticipata di due ore. Quindi si svolgerà
+  dalle 10:30 alle 12:30, sempre in Aula 15 (CU035).
+
   Ricapitoliamo il programma svolto durante  il corso, e discutiamo le
   modalità di esame. 
 
