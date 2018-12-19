@@ -37,7 +37,7 @@ I file sono codificati in formato ='utf-8-sig'=.
   + ([[file:data/chinook_db.sqlite][Formato SQLite]]) può essere aperto direttamente SQLite
   + ([[file:data/chinook.sql][Comandi SQL]]) importabile in qualunque gestore di database.
 
-* COMMENT <2018-12-21 Fri> Lezione 26 - Conclusione 
+* <2018-12-21 Fri> Lezione 26 - Conclusione 
 
   Ricapitoliamo il programma svolto durante  il corso, e discutiamo le
   modalità di esame. 
