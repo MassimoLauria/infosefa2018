@@ -114,14 +114,14 @@ insert into Proprietari values
        ('00004', 'Spoldi','Diego','Via Croce, 12','LO'),
        ('00005', 'Spoldi','Simona','Via S.Angelo, 11','LO'),
        ('00006', 'Bernocchi','Giuseppina','Via Pascoli, 1','LO'),
-       ('00007', ' Cottarelli','Cristian','Via Cannero, 18','MI');
+       ('00007', 'Cottarelli','Cristian','Via Cannero, 18','MI');
 
 
 create table Proprietà (
        Targa nvarchar(10) references Veicolo(Targa),
        Cod_Proprietario nchar(5) references Proprietari(Cod_Proprietario),
        Data_Acquisto date,
-       Data_Cession  date,
+       Data_Cessione date,
        primary key (Targa,Cod_Proprietario)
 );
 
