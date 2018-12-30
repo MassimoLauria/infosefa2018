@@ -31,6 +31,7 @@
   inclusi dei test  preliminari che verificare che  le soluzioni siano
   bene impostate.
 
-  - Testo dell esercizio: ancora da annunciare
-  - Test preliminari: ancora da annunciare
+
+  - Testo dell'esercizio: [[file:docs/esercizio2018.pdf][esercizio2018.pdf]] 
+  - Test preliminari: saranno disponibili a breve.
   
