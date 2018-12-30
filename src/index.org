@@ -39,6 +39,10 @@
 
 * Avvisi
 
+  <2018-12-30 Sun> L'esercizio di programmazione per l'esame del corso
+  è  stato  pubblicato.  I  test  preliminari  corrispondenti  saranno
+  pubblicati tra qualche giorno.
+
   <2018-12-21 ven> La lezione conclusiva  del Venerdì 21 Dicembre 2018
   è stata anticipata  di due ore. Quindi si svolgerà  dalle 10:30 alle
   12:30, sempre in Aula 15 (CU035).
