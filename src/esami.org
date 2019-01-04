@@ -28,10 +28,10 @@
   Lo  studente  dovrà  portare,   per  accedere  all'esame  orale,  un
   esercizio di  programmazione Python/SQL  che sarà testato  con degli
   input  segreti. Per  facilitare lo  svolgimento dell'esercizio  sono
-  inclusi dei test  preliminari che verificare che  le soluzioni siano
-  bene impostate.
+  inclusi dei test  preliminari per verificare che  le soluzioni siano
+  ben impostate.
 
 
   - Testo dell'esercizio: [[file:docs/esercizio2018.pdf][esercizio2018.pdf]] 
-  - Test preliminari: saranno disponibili a breve.
+  - Test preliminari: [[file:code/test_esercizio2018.py][test_esercizio2018.py]]
   

@@ -39,6 +39,9 @@
 
 * Avvisi
 
+  <2019-01-04  Fri> I  test pubblici  corrispondenti agli  esercizi di
+  programmazione sono stati pubblicati. Scusate il ritardo.
+
   <2018-12-30 Sun> L'esercizio di programmazione per l'esame del corso
   è  stato  pubblicato.  I  test  preliminari  corrispondenti  saranno
   pubblicati tra qualche giorno.
