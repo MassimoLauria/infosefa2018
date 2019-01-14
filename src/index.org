@@ -39,6 +39,11 @@
 
 * Avvisi
 
+  <2019-01-14  lun>  Il  testo dell'esercizio  2.3  di  programmazione
+  è stato leggermente modificato. La  modifica è un rilassamento delle
+  condizioni, quindi  il codice precedentemente corretto  non dovrebbe
+  essere influenzato da questa variazione.
+
   <2019-01-04  Fri> I  test pubblici  corrispondenti agli  esercizi di
   programmazione sono stati pubblicati. Scusate il ritardo.
 
