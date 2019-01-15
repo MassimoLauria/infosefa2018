@@ -39,6 +39,10 @@
 
 * Avvisi
 
+  <2019-01-15  mar>  In via  eccezionale  il  secondo appello  scritto
+  (quello dell'11 Febbraio  2019) verrà svolto in Aula  GINI, al piano
+  terra dell'edificio CU002 del Dipartimento di Scienze Statistiche.
+
   <2019-01-14  lun>  Il  testo dell'esercizio  2.3  di  programmazione
   è stato leggermente modificato. La  modifica è un rilassamento delle
   condizioni, quindi  il codice precedentemente corretto  non dovrebbe
