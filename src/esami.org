@@ -6,7 +6,7 @@
   appelli successivi ai primi due sono ancora provvisorie.
 
   - Primo appello scritto: 14/1/2019 - 9.00-14.00 - Aula 2 CU002 [[file:docs/risultatiscritto.2019.01.14.pdf][(risultati)]]
-  - Secondo appello scritto: 11/2/2019 - 9.00-14.00 - Aula *GINI* CU002
+  - Secondo appello scritto: 11/2/2019 - 9.00-14.00 - Aula *GINI* CU002 [[file:docs/risultatiscritto.2019.02.11.pdf][(risultati)]]
   - Terzo appello scritto:  3/6/2019 - 9.00-14.00 - Aula 2 CU002
   - Quarto appello scritto: 1/7/2019 - 9.00-14.00 - Aula 2 CU002
   - Quinto appello scritto: 9/9/2019 - 9.00-14.00 - Aula 2 CU002
