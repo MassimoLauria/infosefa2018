@@ -27,7 +27,7 @@
     +39-06-49910496 </li>
     <li class="contacts">
     <img src="images/office.png" class="contact-pic" />
-    Stanza n.9 - 4<sup>o</sup> piano - Dipartimento di Science Statistiche (CU002)</li>
+    Stanza 9 - 4<sup>o</sup> piano - Dip. Science Statistiche</li>
     <li class="contacts">
     <img src="images/talk.png" class="contact-pic" />
     Ricevimento: Lunedì  15.00-17.00</li>
